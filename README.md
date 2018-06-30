@@ -34,6 +34,7 @@ Various software and tools
 
 - [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article
 - [Everything EOS: Click here to get started!](https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/) - Reddit
+- [EOSInfopedia - tools](http://eosinfopedia.io/eostools.html) - Website
 
 ### Wallets and Toolkits
 
