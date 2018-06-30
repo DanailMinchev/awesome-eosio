@@ -122,6 +122,11 @@ All about development on EOS.IO platform
 
 ### Learning
 
+#### Websites
+
+- [EOSIO Developer Portal](https://developers.eos.io/)
+- [EOSDocs.io - EOS developer documentation](https://www.eosdocs.io/)
+
 #### General guides, articles and videos
 
 - [Building Distributed Apps With EOS.IO Blockchain](https://www.youtube.com/watch?v=E3Tx2DseLGE) - YouTube
@@ -145,14 +150,6 @@ All about development on EOS.IO platform
 
 ## Community
 
-### Forums
-
-- [EOS Go - Blockchain Community](https://forums.eosgo.io/)
-- [EosTalk](https://eostalk.io/)
-- [EOS - Reddit](https://www.reddit.com/r/eos/)
-- [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
-- [EOS.IO - Stack Exchange](https://eosio.stackexchange.com/)
-
 ### Blogs
 
 - [Daniel Larimer](https://medium.com/@bytemaster)
@@ -164,6 +161,15 @@ All about development on EOS.IO platform
 - [eos sw/eden](https://steemit.com/@eos.sw-eden)
 - [EOS Rio](https://steemit.com/@eosrio)
 - [cc32d9](https://medium.com/@cc32d9)
+
+### Forums
+
+- [EOS Go - Blockchain Community](https://forums.eosgo.io/)
+- [EosTalk](https://eostalk.io/)
+- [EOS - Reddit](https://www.reddit.com/r/eos/)
+- [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
+- [EOS.IO - Stack Exchange](https://eosio.stackexchange.com/)
+
 
 ### Related awesome lists
 
