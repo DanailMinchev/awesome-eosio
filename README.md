@@ -133,6 +133,7 @@ All about development on EOS.IO platform
 - [How to setup VS Code and CLion for EOS dApp Development](https://infinitexlabs.com/setup-ide-for-eos-development/) - Article
 - [The ultimate end-to-end EOS dApp development tutorial - Part 1](https://infinitexlabs.com/eos-development-tutorial-part-1/) - Article
 - [The ultimate end-to-end EOS dApp development tutorial – Part 2](https://infinitexlabs.com/eos-development-tutorial-part-2/) - Article
+- [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980) - Article
 
 #### Courses, workshops and webinars
 
