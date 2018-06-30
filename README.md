@@ -84,6 +84,7 @@ Various software and tools
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator
+- [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOS RAM Price platform
 - [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics
 
 ### Block Producers
