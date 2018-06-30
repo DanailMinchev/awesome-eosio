@@ -101,6 +101,7 @@ DApp resources
 
 - [EOSindex](https://eosindex.io/)
 - [EOS Projects](https://eosprojects.org/)
+- [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article
 
 ### Leasing platforms
 
