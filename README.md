@@ -3,10 +3,15 @@
 > A curated list of EOS resources https://eos.io/
 
 
+![EOS](https://raw.githubusercontent.com/DanailMinchev/awesome-eos/master/eos-logo.png)
+
+
 ## Contents
 
 - [Official](#official)
+- [Tools](#tools)
 - [DApps](#dapps)
+- [Development](#development)
 - [Related awesome lists](#related-awesome-lists)
 
 
@@ -21,6 +26,72 @@ Official resources
 - [EOSIO StackExchange for Q&A](https://eosio.stackexchange.com/)
 
 
+## Tools
+
+Various software and tools
+
+### General guides, articles and videos
+
+- [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article
+- [Everything EOS: Click here to get started!](https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/) - Reddit
+
+### Wallets and Toolkits
+
+- [Scatter](https://get-scatter.com/)
+  - More information:
+    - [EOSEssentials/Scatter](https://github.com/EOSEssentials/Scatter) - Official GitHub
+    - [How to safely install Scatter onto your local computer](https://www.youtube.com/watch?v=6770ySYX_8Y) - YouTube
+    - [Voting using Scatter an EOS Portal](https://www.youtube.com/watch?v=_hWRAjLKa8w) - YouTube
+    - [Scatter - Going through Scatter for Users](https://www.youtube.com/watch?v=omfdC5zfXOE) - YouTube
+- [EOS Toolkit](https://eostoolkit.io/)
+  - More information:
+    - [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) - Official GitHub
+    - [EOS Toolkit by Genereos](https://www.youtube.com/watch?v=dg7mIWPnV0E) - YouTube
+    - [New features EOSTookit.IO Presentation - GenerEOS](https://www.youtube.com/watch?v=Qp0I9xMQhTs) - YouTube
+    - [EOS Toolkit Tutorial - More features than ever!](https://steemit.com/eos/@genereos/eos-toolkit-tutorial-more-features-than-ever) - Article
+    - [How to safely change your public/private keys on your EOS account](https://trybe.one/how-to-safely-change-your-public-private-keys-on-your-eos-account/) - Article
+- [SimplEOS](https://eosrio.io/simpleos/)
+  - More information:
+    - [eosrio/simpleos](https://github.com/eosrio/simpleos) - Official GitHub
+    - [simplEOS Wallet: A Super Cool EOS Wallet For Transactions, Voting & Airdrops](https://www.youtube.com/watch?v=valaPyHftus) - YouTube
+    - [SIMPLEOS EOS wallet by EOSRIO](https://www.youtube.com/watch?v=v69oFvexka0) - YouTube
+- [Greymass eos voter](https://github.com/greymass/eos-voter)
+  - More information:
+    - [greymass/eos-voter](https://github.com/greymass/eos-voter) - Official GitHub
+    - [EOS - Vote w/ Greymass! - Fast, Easy, & Secure](https://www.youtube.com/watch?v=cHEKQl5Fa5M) - YouTube
+    - [How to vote in EOS block producer elections using EOS voter by Greymass](https://www.youtube.com/watch?v=TF16fQCuIis) - YouTube
+- [eosc](https://www.eoscanada.com/en/tools/eosc)
+  - More information:
+    - [eoscanada/eosc](https://github.com/eoscanada/eosc) - Official GitHub
+    - [How To Use `eosc` To Create A Key Vault and Vote With Your EOS](https://www.youtube.com/watch?v=aqeLuijgL3g) - YouTube
+
+### Account services
+
+- [Get alerts for transactions on an account - EOS Authority](https://eosauthority.com/alerts)
+- [ZEOS](https://www.zeos.co/) - Zeos is EOS account name purchase service
+  - More information:
+    - [How To Buy/Create an Eos Account (wallet) With zEOS](https://www.youtube.com/watch?v=q8kcs1MuPNE) - YouTube
+
+### Block explorers, Voting portals, Calculators and Statistics
+
+- [EOS Portal](https://eosportal.io/chain/12/producers) - Voting portal
+- [EOS Network Monitor](http://eosnetworkmonitor.io/) - Network monitor
+- [eosflare](https://eosflare.io/) - Block explorer
+- [EOS Tracker](https://eostracker.io/) - Block explorer
+  - More information:
+    - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - Official GitHub
+- [EOSpark](https://eospark.com/) - Block explorer
+- [EOSQuery](https://eosquery.com/) - Block explorer
+- [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator
+- [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics
+
+### Block Producers
+
+- [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOS Go Block Producer List
+- [EOS Radar](https://www.eos-radar.com/) - EOS Block Producer Map
+- [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics
+
+
 ## DApps
 
 DApp resources
@@ -28,14 +99,47 @@ DApp resources
 ### DApp directories
 
 - [EOSindex](https://eosindex.io/)
+- [EOS Projects](https://eosprojects.org/)
+
+### Leasing platforms
+
+- [Chintai](https://chintai-eos.io/)
 
 ### Airdrop trackers
 
 - [airdropsforeos](https://airdropsforeos.com/)
 - [EOS Drops](https://www.eosdrops.io/)
+- [Airdrop Balances Calculator](http://airdropcalculator.horuspay.io/)
 - [Chainverse](http://chainverse.com/eos-airdrops/)
 - [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
 - [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
+
+
+## Development
+
+All about development on EOS.IO platform
+
+### Learning
+
+#### General guides, articles and videos
+
+- [Building Distributed Apps With EOS.IO Blockchain](https://www.youtube.com/watch?v=E3Tx2DseLGE) - YouTube
+- [How to setup VS Code and CLion for EOS dApp Development](https://infinitexlabs.com/setup-ide-for-eos-development/) - Article
+- [The ultimate end-to-end EOS dApp development tutorial - Part 1](https://infinitexlabs.com/eos-development-tutorial-part-1/) - Article
+- [The ultimate end-to-end EOS dApp development tutorial – Part 2](https://infinitexlabs.com/eos-development-tutorial-part-2/) - Article
+
+#### Courses and webinars
+
+- [Building Apps with EOS](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos)
+
+### Libraries and Frameworks
+
+#### RPC libraries
+
+- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript library
+- [EOSIO/eosjs2](https://github.com/EOSIO/eosjs2) - Official TypeScript library
+- [EOS.IO Go API library](https://github.com/eoscanada/eos-go)
+- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS)
 
 
 ## Related awesome lists
