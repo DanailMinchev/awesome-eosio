@@ -86,6 +86,7 @@ Various software and tools
 - [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator
 - [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOS RAM Price platform
 - [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics
+- [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOS RAM Whale Watch
 
 ### Block Producers
 
