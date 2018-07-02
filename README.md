@@ -81,6 +81,7 @@ Various software and tools
 - [EOS Tracker](https://eostracker.io/) - Block explorer
   - More information:
     - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - Official GitHub
+- [ScanEOS](https://scaneos.io/) - Block explorer
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator
