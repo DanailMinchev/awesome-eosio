@@ -8,22 +8,29 @@
 
 ## Contents
 
-- [Official](#official)
+- [Official resources](#official-resources)
+- [Learning resources](#learning-resources)
 - [Tools](#tools)
 - [DApps](#dapps)
-- [Development](#development)
+- [Development resources](#development)
 - [Community](#community)
 
 
-## Official
-
-Official resources
+## Official resources
 
 - [EOSIO Website](https://eos.io/)
 - [EOSIO Blog](https://medium.com/eosio)
 - [EOSIO GitHub](https://github.com/eosio)
 - [EOSIO Developer Portal](https://developers.eos.io/)
 - [EOSIO StackExchange for Q&A](https://eosio.stackexchange.com/)
+
+
+## Learning resources
+
+#### Websites
+
+- [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
+- [EOS - Trybe](https://trybe.one/learn-eos/)
 
 
 ## Tools
