@@ -80,7 +80,7 @@ Various software and tools
   - More information:
     - [How To Buy/Create an Eos Account (wallet) With zEOS](https://www.youtube.com/watch?v=q8kcs1MuPNE) - YouTube
 
-### Block explorers, Voting portals, Calculators and Statistics
+### Block explorers, Voting portals
 
 - [EOS Portal](https://eosportal.io/chain/12/producers) - Voting portal
 - [EOS Network Monitor](http://eosnetworkmonitor.io/) - Network monitor
@@ -92,8 +92,12 @@ Various software and tools
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
+
+### EOS RAM trading platforms and Resource calculators
+
 - [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator
 - [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOS RAM Price platform
+- [EOS RAM Market](https://buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API
 - [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics
 - [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOS RAM Whale Watch
 
