@@ -147,6 +147,7 @@ All about development on EOS.IO platform
 - [The ultimate end-to-end EOS dApp development tutorial - Part 1](https://infinitexlabs.com/eos-development-tutorial-part-1/) - Article
 - [The ultimate end-to-end EOS dApp development tutorial – Part 2](https://infinitexlabs.com/eos-development-tutorial-part-2/) - Article
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980) - Article
+- [Complete guide to creating an EOS airdrop](https://www.youtube.com/watch?v=E5JlA-29Wwk) - YouTube
 
 #### Courses, workshops and webinars
 
@@ -160,6 +161,10 @@ All about development on EOS.IO platform
 - [EOSIO/eosjs2](https://github.com/EOSIO/eosjs2) - Official TypeScript library
 - [EOS.IO Go API library](https://github.com/eoscanada/eos-go)
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS)
+
+### Tools
+
+- [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOS blockchain
 
 
 ## Community
