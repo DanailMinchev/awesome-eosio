@@ -166,6 +166,10 @@ All about development on EOS.IO platform
 
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOS blockchain
 
+### Testnets
+
+- [EOS Jungle Testnet](http://jungle.cryptolions.io/)
+
 
 ## Community
 
