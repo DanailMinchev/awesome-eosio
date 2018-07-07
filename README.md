@@ -89,6 +89,7 @@ Various software and tools
   - More information:
     - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - Official GitHub
 - [ScanEOS](https://scaneos.io/) - Block explorer
+- [EOSweb](https://eosweb.net/) - Block explorer
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
