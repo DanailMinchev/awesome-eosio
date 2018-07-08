@@ -45,6 +45,12 @@ Various software and tools
 
 ### Wallets and Toolkits
 
+- [cleos](https://developers.eos.io/eosio-nodeos/docs/cleos-overview)
+  - More information:
+    - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO)
+    - [EOS Block Producer Voting Using the Command Line](https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line) - Article + Video
+    - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange
+    - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange
 - [Scatter](https://get-scatter.com/)
   - More information:
     - [EOSEssentials/Scatter](https://github.com/EOSEssentials/Scatter) - Official GitHub
