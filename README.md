@@ -79,6 +79,11 @@ Various software and tools
   - More information:
     - [eoscanada/eosc](https://github.com/eoscanada/eosc) - Official GitHub
     - [How To Use `eosc` To Create A Key Vault and Vote With Your EOS](https://www.youtube.com/watch?v=aqeLuijgL3g) - YouTube
+- [Cypherglass LENS](https://www.cypherglass.com/lens/)
+  - More information:
+    - [cypherglassdotcom/glasslens](https://github.com/cypherglassdotcom/glasslens) - Official GitHub
+    - [Introducing Cypherglass LENS a new EOS Voting Tool](https://steemit.com/eos/@cypherglass/introducing-cypherglass-lens-a-new-eos-voting-tool) - Article
+    - [How to Vote for EOS Block Producers with Cypherglass LENS](https://www.youtube.com/watch?v=hDDh77Hw5iI) - YouTube
 
 ### Account services
 
