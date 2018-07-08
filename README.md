@@ -176,6 +176,9 @@ All about development on EOS.IO platform
 - [EOS Jungle Testnet](http://jungle.cryptolions.io/)
   - More information:
     - [CryptoLions/EOS-Jungle-Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Official GitHub
+- [EOSIO Scholar Testnet](https://scholar.eosnation.io/)
+  - More information:
+    - [ScholarTestnet](https://github.com/ScholarTestnet) - Official GitHub
 
 
 ## Community
