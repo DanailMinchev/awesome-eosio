@@ -51,6 +51,7 @@ Various software and tools
     - [EOS Block Producer Voting Using the Command Line](https://steemit.com/eos/@eosnewyork/your-vote-matters-3-eos-block-producer-voting-using-the-command-line) - Article + Video
     - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) - EOSIO StackExchange
     - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange
+    - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - Article
 - [Scatter](https://get-scatter.com/)
   - More information:
     - [EOSEssentials/Scatter](https://github.com/EOSEssentials/Scatter) - Official GitHub
