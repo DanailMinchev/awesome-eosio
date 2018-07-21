@@ -34,6 +34,7 @@
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [Cypherglass Help](https://www.cypherglass.com/help)
 - [EOS - Trybe](https://trybe.one/learn-eos/)
+- [EOS Learning Resources - EOS Costa Rica](https://learn.eoscostarica.io/)
 
 
 ## Tools
@@ -45,6 +46,7 @@ Various software and tools
 - [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article
 - [Everything EOS: Click here to get started!](https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/) - Reddit
 - [EOSInfopedia - tools](http://eosinfopedia.io/eostools.html) - Website
+- [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube
 
 ### Wallets and Toolkits
 
@@ -61,6 +63,9 @@ Various software and tools
     - [How to safely install Scatter onto your local computer](https://www.youtube.com/watch?v=6770ySYX_8Y) - YouTube
     - [Voting using Scatter an EOS Portal](https://www.youtube.com/watch?v=_hWRAjLKa8w) - YouTube
     - [Scatter - Going through Scatter for Users](https://www.youtube.com/watch?v=omfdC5zfXOE) - YouTube
+- [Scattellet](https://scattellet.com/)
+  - More information:
+    - [EOSEssentials/Scattellet](https://github.com/EOSEssentials/Scattellet) - Official GitHub
 - [EOS Toolkit](https://eostoolkit.io/)
   - More information:
     - [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) - Official GitHub
@@ -107,6 +112,7 @@ Various software and tools
 - [EOSweb](https://eosweb.net/) - Block explorer
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer
+- [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
 - [EOSCANNER](https://www.eoscanner.io/) - Block explorer
@@ -114,6 +120,8 @@ Various software and tools
 ### EOS RAM trading platforms and Resource calculators
 
 - [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator
+  - More information:
+    - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub
 - [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOS RAM Price platform
 - [EOS RAM Market](https://buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API
 - [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics
@@ -154,6 +162,9 @@ DApp resources
 
 ### Games
 
+- [MonsterEOS](https://monstereos.io/)
+  - More information:
+    - [leordev/monstereos](https://github.com/leordev/monstereos) - Official GitHub
 - [CryptoWizards](https://wizards.one/)
 - [EOS Button](https://eosbutton.io/)
 - [King Of EOS](https://kingofeos.com/)
@@ -161,6 +172,9 @@ DApp resources
 ### Other
 
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOS blockchain
+- [DecenTwitter](https://decentwitter.com/) - Decentralized Twitter on EOS
+  - More information:
+    - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Official GitHub
 
 
 ## Forks
@@ -201,18 +215,44 @@ All about development on EOS.IO platform
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop)
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/)
 
+#### YouTube Channels
+
+- [Jackson Kelley](https://www.youtube.com/user/jackodwhacko)
+- [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress)
+- [Filip Martinsson](https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA)
+
+#### Examples
+
+- [poorman.token](https://github.com/generEOS/poorman.token) - EOS Token with burning and signup (for making the token RAM cheap)
+- [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter
+- [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOS / React.js
+- [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOS blockchain
+
 ### Libraries and Frameworks
 
-#### RPC libraries
+#### API libraries
 
 - [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript library
 - [EOSIO/eosjs2](https://github.com/EOSIO/eosjs2) - Official TypeScript library
-- [EOS.IO Go API library](https://github.com/eoscanada/eos-go)
-- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS)
+- [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - Go library
+- [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library
+- [eosnet](https://github.com/SNIKO/eosnet) - .NET library
+- [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - Elixir library
+
+#### Frameworks
+
+- [EOS Factory](http://eosfactory.io/) - Python-based EOS smart-contract development & unit testing framework
+  - More information:
+    - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub
+- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - framework for interacting with EOS, written in Swift
 
 ### Tools
 
+- [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption
+  - More information:
+    - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOS blockchain
+- [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 
 ### Testnets
 
@@ -222,6 +262,17 @@ All about development on EOS.IO platform
 - [EOSIO Scholar Testnet](https://scholar.eosnation.io/)
   - More information:
     - [ScholarTestnet](https://github.com/ScholarTestnet) - Official GitHub
+
+### Block Producer tools
+
+- [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOS nodes
+- [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - A dashboard tool for monitoring internal Block Producer infrastructure
+- [BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover) - EOS Block Producer Failover Scripts
+
+### Other
+
+- [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - command auto-completion for EOS cleos
+- [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOS blockchain data to mongodb database
 
 
 ## Community
@@ -277,6 +328,7 @@ All about development on EOS.IO platform
 
 - [EOS-Nation](https://github.com/EOS-Nation/Awesome-EOS)
 - [Netherdrake](https://github.com/Netherdrake/awesome-eos)
+- [eosplace/awesome-eos](https://github.com/eosplace/awesome-eos)
 - [eostea](https://github.com/eostea/awesome-eos)
 
 
