@@ -107,6 +107,7 @@ Various software and tools
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
+- [EOSCANNER](https://www.eoscanner.io/) - Block explorer
 
 ### EOS RAM trading platforms and Resource calculators
 
