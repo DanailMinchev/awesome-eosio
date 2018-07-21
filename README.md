@@ -133,10 +133,6 @@ DApp resources
 - [EOSapps.net](https://eosapps.net/)
 - [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article
 
-### Leasing platforms
-
-- [Chintai](https://chintai-eos.io/)
-
 ### Airdrop trackers
 
 - [airdropsforeos](https://airdropsforeos.com/)
@@ -146,6 +142,20 @@ DApp resources
 - [Airdrops - EOSDocs.io](https://www.eosdocs.io/resources/airdrops/)
 - [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
 - [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
+
+### Leasing platforms
+
+- [Chintai](https://chintai-eos.io/)
+
+### Games
+
+- [CryptoWizards](https://wizards.one/)
+- [EOS Button](https://eosbutton.io/)
+- [King Of EOS](https://kingofeos.com/)
+
+### Other
+
+- [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOS blockchain
 
 
 ## Forks
