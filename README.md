@@ -13,6 +13,7 @@
 - [Tools](#tools)
 - [DApps](#dapps)
 - [Forks](#forks)
+- [Exchanges](#exchanges)
 - [Development resources](#development)
 - [Community](#community)
 
@@ -162,6 +163,13 @@ DApp resources
 
 - [EvolutionOS](https://www.evolutionos.com/)
 - [Telos](https://telosfoundation.io/)
+
+
+## Exchanges
+
+EOS focused exchanges
+
+- [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly
 
 
 ## Development
