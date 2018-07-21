@@ -106,6 +106,7 @@ Various software and tools
 - [ScanEOS](https://scaneos.io/) - Block explorer
 - [EOSweb](https://eosweb.net/) - Block explorer
 - [EOSpark](https://eospark.com/) - Block explorer
+- [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
 - [EOSCANNER](https://www.eoscanner.io/) - Block explorer
@@ -122,6 +123,7 @@ Various software and tools
 
 - [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOS Go Block Producer List
 - [EOS Radar](https://www.eos-radar.com/) - EOS Block Producer Map
+- [EOS Block Producer Research Portal](https://www.alohaeos.com/vote)
 - [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics
 
 
