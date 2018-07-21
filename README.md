@@ -196,6 +196,7 @@ All about development on EOS.IO platform
 #### Courses, workshops and webinars
 
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop)
+- [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/)
 
 ### Libraries and Frameworks
 
