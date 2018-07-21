@@ -243,13 +243,21 @@ All about development on EOS.IO platform
 
 - [Daniel Larimer](https://medium.com/@bytemaster)
 - [eosio](https://medium.com/@eosio)
+- [EOS Go](https://steemit.com/@eosgo)
+- [Blockgenic](https://medium.com/@blockgenic)
+- [cc32d9](https://medium.com/@cc32d9)
+- [Dallas Rushing](https://steemit.com/@dallasrushing)
+- [Iang](https://steemit.com/@iang)
 - [EOS Canada](https://steemit.com/@eos-canada)
 - [Cypherglass](https://steemit.com/@cypherglass)
 - [EOS New York](https://medium.com/@eosnewyork)
 - [CryptoLions](https://steemit.com/@cryptolions)
+- [GenerEOS Australia](https://steemit.com/@genereos)
+- [Tokenika](https://steemit.com/@tokenika)
 - [eos sw/eden](https://steemit.com/@eos.sw-eden)
 - [EOS Rio](https://steemit.com/@eosrio)
-- [cc32d9](https://medium.com/@cc32d9)
+- [greymass](https://busy.org/@greymass)
+- [cipherz](https://medium.com/@cipherz)
 
 ### Forums
 
