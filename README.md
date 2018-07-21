@@ -12,6 +12,7 @@
 - [Learning resources](#learning-resources)
 - [Tools](#tools)
 - [DApps](#dapps)
+- [Forks](#forks)
 - [Development resources](#development)
 - [Community](#community)
 
@@ -145,6 +146,12 @@ DApp resources
 - [Airdrops - EOSDocs.io](https://www.eosdocs.io/resources/airdrops/)
 - [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
 - [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
+
+
+## Forks
+
+- [EvolutionOS](https://www.evolutionos.com/)
+- [Telos](https://telosfoundation.io/)
 
 
 ## Development
