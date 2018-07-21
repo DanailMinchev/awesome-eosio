@@ -199,17 +199,20 @@ All about development on EOS.IO platform
 ### YouTube Channels
 
 - [EOS.IO](https://www.youtube.com/c/eosio)
-- [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
+- [EOS Go](https://www.youtube.com/c/EOSGo)
 - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
 - [EOS San Diego](https://www.youtube.com/channel/UC0J-dSIBvRyXtuurG97i4NQ)
 - [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w)
+- [EOS Tips](https://www.youtube.com/channel/UC-pGtazr7k8HG_Sge6s_lbw)
+- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
 - [EOS Canada](https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ)
 - [Cypherglass](https://www.youtube.com/channel/UCnXofUeO5w1dO9JGWWDdqPQ)
-- [EOS Tips](https://www.youtube.com/channel/UC-pGtazr7k8HG_Sge6s_lbw)
+- [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw)
+- [EOS New York](https://www.youtube.com/channel/UCg7aeCSXUTP49w_elxgYIXA)
 - [nsjames](https://www.youtube.com/user/grandmoren1)
-- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
-- [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 - [EOS - Educational Series](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
+- [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
+- [ICO Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
 
 ### Blogs
 
