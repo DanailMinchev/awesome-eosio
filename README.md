@@ -65,6 +65,8 @@ Official resources
 - [EOSIO Blog](https://medium.com/eosio)
 - [EOSIO Developer Portal](https://developers.eos.io/)
 - [EOSIO StackExchange for Q&A](https://eosio.stackexchange.com/)
+- [EOSIO YouTube](https://www.youtube.com/c/eosio)
+- [Block.one](https://block.one/)
 
 
 Users
@@ -161,6 +163,7 @@ Various software and tools
 - [EOSpark](https://eospark.com/) - Block explorer
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer
 - [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer
+- [Bloks](https://bloks.io/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
 - [EOSCANNER](https://www.eoscanner.io/) - Block explorer
