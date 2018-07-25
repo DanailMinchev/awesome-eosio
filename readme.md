@@ -183,6 +183,9 @@ Various software and tools
 ### Block Producers (users)
 
 - [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOS Go Block Producer List
+- [GLASS](https://glass.cypherglass.com/) - EOS Block Producer Map
+  - More information:
+    - [Glass, A Tool to Protect the EOS Network](https://www.youtube.com/watch?v=kU4jkqxBIeU) - YouTube
 - [EOS Radar](https://www.eos-radar.com/) - EOS Block Producer Map
 - [EOS Block Producer Research Portal](https://www.alohaeos.com/vote)
 - [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics
