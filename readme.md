@@ -32,7 +32,7 @@ Table of Contents
   - [Learning resources](#learning-resources-developers)
     - [Websites](#websites-developers)
     - [General guides, articles and videos](#general-guides-articles-and-videos-developers)
-    - [Courses, workshops and webinars](#courses-workshops-and-webinars-developers)
+    - [Courses, workshops, webinars and books](#courses-workshops-webinars-and-books-developers)
     - [YouTube Channels](#youtube-channels-developers)
     - [Examples](#examples-developers)
   - [Libraries and Frameworks](#libraries-and-frameworks-developers)
@@ -269,10 +269,11 @@ All about development on EOS.IO platform
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980) - Article
 - [Complete guide to creating an EOS airdrop](https://www.youtube.com/watch?v=E5JlA-29Wwk) - YouTube
 
-### Courses, workshops and webinars (developers)
+### Courses, workshops, webinars and books (developers)
 
-- [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop)
-- [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/)
+- [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop
+- [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course
+- [Learn EOS Development](https://learneos.one/) - Book
 
 ### YouTube Channels (developers)
 
