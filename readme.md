@@ -47,6 +47,8 @@ Table of Contents
   - [YouTube Channels](#youtube-channels-community)
   - [Forums](#forums-community)
   - [Related awesome lists](#related-awesome-lists-community)
+- [Markets](#markets)
+  - [Information](#information-markets)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -387,7 +389,6 @@ Community
 - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 - [ICO Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
 
-
 ## Forums (community)
 
 
@@ -406,6 +407,15 @@ Community
 - [eosplace/awesome-eos](https://github.com/eosplace/awesome-eos)
 - [eostea](https://github.com/eostea/awesome-eos)
 
+Markets
+==============================
+
+## Information (markets)
+
+- [Blockmodo](https://blockmodo.com/quotes/EOS)
+- [CoinMarketCap](https://coinmarketcap.com/currencies/eos/)
+- [CryptoCompare](https://www.cryptocompare.com/coins/eos/overview/)
+- [EOS Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/EOS.registry.json)
 
 Contribute
 ==============================
