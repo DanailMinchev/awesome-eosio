@@ -176,7 +176,7 @@ Various software and tools
   - More information:
     - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub
 - [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOS RAM Price platform
-- [EOS RAM Market](https://buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API
+- [EOS RAM Market](https://www.buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API
 - [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics
 - [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOS RAM Whale Watch
 
