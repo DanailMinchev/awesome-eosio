@@ -247,6 +247,8 @@ EOS focused exchanges
 
 
 - [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly
+- [EOSfinex](https://eosfinex.com/) - Decentralised, Under Development
+- [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development
 
 
 Developers
