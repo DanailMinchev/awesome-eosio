@@ -321,6 +321,9 @@ All about development on EOS.IO platform
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption
   - More information:
     - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube
+- [EOSSnapshots.io](https://www.eossnapshots.io/) - Snapshots As A Service
+  - More information:
+    - [Snapshots As A Service: Airdrops for All](https://medium.com/eos-new-york/snapshots-as-a-service-airdrops-for-all-2bd51548b1ac) - Article
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOS blockchain
 - [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 
