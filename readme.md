@@ -13,8 +13,8 @@ Table of Contents
 - [Users](#users)
   - [Learning resources](#learning-resources-users)
     - [Websites](#websites-users)
-  - [Tools](#tools-users)
     - [General guides, articles and videos](#general-guides-articles-and-videos-users)
+- [Tools](#tools-users)
     - [Wallets and Toolkits](#wallets-and-toolkits-users)
     - [Account services](#account-services-users)
     - [Block explorers, Voting portals](#block-explorers-voting-portals-users)
@@ -87,18 +87,19 @@ All about EOS.IO platform for users
 - [EOS - Trybe](https://trybe.one/learn-eos/)
 - [EOS Learning Resources - EOS Costa Rica](https://learn.eoscostarica.io/)
 
+### General guides, articles and videos (users)
+
+- [The Complete Guide To Moving EOS Tokens Off Of Exchanges](https://medium.com/eos-new-york/the-complete-guide-for-moving-eos-tokens-off-of-exchanges-4c40b6155ecd) - Article
+- [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article
+- [Everything EOS: Click here to get started!](https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/) - Reddit
+- [EOSInfopedia - tools](http://eosinfopedia.io/eostools.html) - Website
+- [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube
+
 
 ## Tools (users)
 
 Various software and tools
 
-
-### General guides, articles and videos (users)
-
-- [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article
-- [Everything EOS: Click here to get started!](https://www.reddit.com/r/eos/comments/8rmbw4/everything_eos_click_here_to_get_started/) - Reddit
-- [EOSInfopedia - tools](http://eosinfopedia.io/eostools.html) - Website
-- [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube
 
 ### Wallets and Toolkits (users)
 
