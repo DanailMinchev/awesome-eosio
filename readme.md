@@ -136,6 +136,7 @@ Various software and tools
     - [greymass/eos-voter](https://github.com/greymass/eos-voter) - Official GitHub
     - [EOS - Vote w/ Greymass! - Fast, Easy, & Secure](https://www.youtube.com/watch?v=cHEKQl5Fa5M) - YouTube
     - [How to vote in EOS block producer elections using EOS voter by Greymass](https://www.youtube.com/watch?v=TF16fQCuIis) - YouTube
+- [MyEOSKit](https://www.myeoskit.com/)
 - [eosc](https://www.eoscanada.com/en/tools/eosc)
   - More information:
     - [eoscanada/eosc](https://github.com/eoscanada/eosc) - Official GitHub
