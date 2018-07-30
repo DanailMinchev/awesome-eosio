@@ -326,6 +326,7 @@ All about development on EOS.IO platform
     - [Snapshots As A Service: Airdrops for All](https://medium.com/eos-new-york/snapshots-as-a-service-airdrops-for-all-2bd51548b1ac) - Article
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOS blockchain
 - [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+- [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOS keosd with Touch ID Secure Enclave
 
 
 ## Testnets (developers)
