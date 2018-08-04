@@ -166,9 +166,10 @@ Various software and tools
 - [ScanEOS](https://scaneos.io/) - Block explorer
 - [EOSweb](https://eosweb.net/) - Block explorer
 - [EOSpark](https://eospark.com/) - Block explorer
+- [Bloks](https://bloks.io/) - Block explorer
+- [EOS Checker](https://eoschecker.io/) - Block explorer
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer
 - [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer
-- [Bloks](https://bloks.io/) - Block explorer
 - [EOSQuery](https://eosquery.com/) - Block explorer
 - [eosmonitor](https://eosmonitor.io/) - Block explorer
 - [EOSCANNER](https://www.eoscanner.io/) - Block explorer
