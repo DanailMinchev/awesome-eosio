@@ -6,7 +6,7 @@
 ![EOS](https://raw.githubusercontent.com/DanailMinchev/awesome-eos/master/eos-logo.png)
 
 
-Table of Contents
+Contents
 ==============================
 
 - [Official](#official)
