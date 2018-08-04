@@ -20,14 +20,6 @@ Table of Contents
     - [Block explorers, Voting portals](#block-explorers-voting-portals-users)
     - [EOS RAM trading platforms and Resource calculators](#eos-ram-trading-platforms-and-resource-calculators-users)
     - [Block Producers](#block-producers-users)
-  - [DApps](#dapps-users)
-    - [DApp directories](#dapp-directories-users)
-    - [Airdrop trackers](#airdrop-trackers-users)
-    - [Leasing platforms](#leasing-platforms-users)
-    - [Games](#games-users)
-    - [Other](#other-users)
-  - [Forks](#forks-users)
-  - [Exchanges](#exchanges-users)
 - [Developers](#developers)
   - [Learning resources](#learning-resources-developers)
     - [Websites](#websites-developers)
@@ -47,8 +39,15 @@ Table of Contents
   - [YouTube Channels](#youtube-channels-community)
   - [Forums](#forums-community)
   - [Related awesome lists](#related-awesome-lists-community)
+- [DApps](#dapps)
+  - [DApp directories](#dapp-directories-dapps)
+  - [Airdrop trackers](#airdrop-trackers-dapps)
+  - [Leasing platforms](#leasing-platforms-dapps)
+  - [Games](#games-dapps)
+  - [Other](#other-dapps)
+- [Exchanges](#exchanges)
+- [Forks](#forks)
 - [Markets](#markets)
-  - [Information](#information-markets)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -193,67 +192,6 @@ Various software and tools
 - [EOS Radar](https://www.eos-radar.com/) - EOS Block Producer Map
 - [EOS Block Producer Research Portal](https://www.alohaeos.com/vote)
 - [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics
-
-
-## DApps (users)
-
-DApp resources
-
-
-### DApp directories (users)
-
-- [EOSindex](https://eosindex.io/)
-- [EOS Projects](https://eosprojects.org/)
-- [EOSapps.net](https://eosapps.net/)
-- [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article
-
-### Airdrop trackers (users)
-
-- [airdropsforeos](https://airdropsforeos.com/)
-- [EOS Drops](https://www.eosdrops.io/)
-- [Airdrop Balances Calculator](http://airdropcalculator.horuspay.io/)
-- [Chainverse](http://chainverse.com/eos-airdrops/)
-- [Airdrops - EOSDocs.io](https://www.eosdocs.io/resources/airdrops/)
-- [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
-- [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
-
-### Leasing platforms (users)
-
-- [Chintai](https://chintai-eos.io/)
-
-### Games (users)
-
-- [MonsterEOS](https://monstereos.io/)
-  - More information:
-    - [leordev/monstereos](https://github.com/leordev/monstereos) - Official GitHub
-- [CryptoWizards](https://wizards.one/)
-- [EOS Button](https://eosbutton.io/)
-- [King Of EOS](https://kingofeos.com/)
-
-### Other (users)
-
-- [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOS blockchain
-- [DecenTwitter](https://decentwitter.com/) - Decentralized Twitter on EOS
-  - More information:
-    - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Official GitHub
-
-
-## Forks (users)
-
-
-- [EvolutionOS](https://www.evolutionos.com/)
-- [Telos](https://telosfoundation.io/)
-
-
-## Exchanges (users)
-
-EOS focused exchanges
-
-
-- [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly
-- [DEXEOS](https://dexeos.io/) - Decentralised, Beta version, Airdrops friendly
-- [EOSfinex](https://eosfinex.com/) - Decentralised, Under Development
-- [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development
 
 
 Developers
@@ -422,15 +360,83 @@ Community
 - [eosplace/awesome-eos](https://github.com/eosplace/awesome-eos)
 - [eostea](https://github.com/eostea/awesome-eos)
 
+
+DApps
+==============================
+
+DApp resources
+
+
+## DApp directories (dapps)
+
+- [EOSindex](https://eosindex.io/)
+- [EOS Projects](https://eosprojects.org/)
+- [EOSapps.net](https://eosapps.net/)
+- [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article
+
+## Airdrop trackers (dapps)
+
+- [airdropsforeos](https://airdropsforeos.com/)
+- [EOS Drops](https://www.eosdrops.io/)
+- [Airdrop Balances Calculator](http://airdropcalculator.horuspay.io/)
+- [Chainverse](http://chainverse.com/eos-airdrops/)
+- [Airdrops - EOSDocs.io](https://www.eosdocs.io/resources/airdrops/)
+- [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
+- [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
+
+## Leasing platforms (dapps)
+
+- [Chintai](https://chintai-eos.io/)
+
+## Games (dapps)
+
+- [MonsterEOS](https://monstereos.io/)
+  - More information:
+    - [leordev/monstereos](https://github.com/leordev/monstereos) - Official GitHub
+- [CryptoWizards](https://wizards.one/)
+- [EOS Button](https://eosbutton.io/)
+- [King Of EOS](https://kingofeos.com/)
+
+## Other (dapps)
+
+- [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOS blockchain
+- [DecenTwitter](https://decentwitter.com/) - Decentralized Twitter on EOS
+  - More information:
+    - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Official GitHub
+
+
+Exchanges
+==============================
+
+EOS focused exchanges
+
+
+- [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly
+- [DEXEOS](https://dexeos.io/) - Decentralised, Beta version, Airdrops friendly
+- [EOSfinex](https://eosfinex.com/) - Decentralised, Under Development
+- [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development
+
+
+Forks
+==============================
+
+EOS forks
+
+
+- [EvolutionOS](https://www.evolutionos.com/)
+- [Telos](https://telosfoundation.io/)
+
+
 Markets
 ==============================
 
-## Information (markets)
 
-- [Blockmodo](https://blockmodo.com/quotes/EOS)
 - [CoinMarketCap](https://coinmarketcap.com/currencies/eos/)
 - [CryptoCompare](https://www.cryptocompare.com/coins/eos/overview/)
-- [EOS Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/EOS.registry.json)
+- [Blockmodo](https://blockmodo.com/quotes/EOS)
+  - More information:
+    - [EOS Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/EOS.registry.json)
+
 
 Contribute
 ==============================
