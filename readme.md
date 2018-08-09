@@ -198,6 +198,7 @@ All about development on EOS.IO platform
 ### Websites (developers)
 
 - [EOSIO Developer Portal](https://developers.eos.io/)
+- [EOS Node Tools](https://eosnode.tools/)
 - [EOSDocs.io - EOS developer documentation](https://www.eosdocs.io/)
 
 ### General guides, articles and videos (developers)
