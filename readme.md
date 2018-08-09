@@ -72,6 +72,7 @@ All about EOS.IO platform for users
 
 ### Websites (users)
 
+- [EOS Bootcamp](https://eosbootcamp.com/)
 - [All Things EOS](http://allthingseos.com/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [Cypherglass Help](https://www.cypherglass.com/help)
