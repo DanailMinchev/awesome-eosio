@@ -372,6 +372,7 @@ DApp resources
 - [Airdrop Balances Calculator](http://airdropcalculator.horuspay.io/)
 - [Chainverse](http://chainverse.com/eos-airdrops/)
 - [Airdrops - EOSDocs.io](https://www.eosdocs.io/resources/airdrops/)
+- [EOS Airdrop Tracker - Google Sheets](https://docs.google.com/spreadsheets/d/10YwFRklMpu99OzqzUUVXhwP4SAytlUOje29WMgtUqe0)
 - [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
 - [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
 
