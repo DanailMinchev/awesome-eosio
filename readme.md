@@ -384,12 +384,16 @@ DApp resources
 
 ## Games (dapps)
 
+- [King Of EOS](https://kingofeos.com/)
+  - More information:
+    - [MrToph/KingOfEos](https://github.com/MrToph/KingOfEos) - Official GitHub
+    - [Introducing King of EOS](https://cmichel.io/introducing-king-of-eos) - Article
+    - [Learnings from building my first dapp on EOS blockchain](https://cmichel.io/releasing-my-first-eos-dapp) - Article
 - [MonsterEOS](https://monstereos.io/)
   - More information:
     - [leordev/monstereos](https://github.com/leordev/monstereos) - Official GitHub
 - [CryptoWizards](https://wizards.one/)
 - [EOS Button](https://eosbutton.io/)
-- [King Of EOS](https://kingofeos.com/)
 
 ## Other (dapps)
 
