@@ -2,7 +2,7 @@
 
 [<img src="eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
 
-> A curated list of EOS resources https://eos.io/
+> A curated list of EOSIO resources https://eos.io/
 
 <p>EOSIO - the most powerful infrastructure for decentralized applications<br /></p>
 
@@ -62,7 +62,7 @@ Official resources
 
 # <a id="users"></a>Users
 
-All about EOS.IO platform for users
+All about EOSIO platform for users
 
 
 ## <a id="learning-resources-users"></a>Learning resources
@@ -186,7 +186,7 @@ Various software and tools
 
 # <a id="developers"></a>Developers
 
-All about development on EOS.IO platform
+All about development on EOSIO platform
 
 
 ## <a id="learning-resources-developers"></a>Learning resources
