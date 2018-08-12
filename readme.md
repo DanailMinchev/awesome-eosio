@@ -146,22 +146,22 @@ Various software and tools
 
 ### <a id="block-explorers-voting-portals-users"></a>Block explorers, Voting portals
 
-- [EOS Portal](https://eosportal.io/chain/12/producers) - Voting portal
-- [EOS Network Monitor](http://eosnetworkmonitor.io/) - Network monitor
-- [eosflare](https://eosflare.io/) - Block explorer
-- [EOS Tracker](https://eostracker.io/) - Block explorer
+- [EOS Portal](https://eosportal.io/chain/12/producers) - The first EOS community voting portal. Scatter friendly
+- [EOS Network Monitor](http://eosnetworkmonitor.io/) - EOS Network Monitor by CryptoLions. Useful for developers. Scatter friendly
+- [eosflare](https://eosflare.io/) - Popular block explorer includes resource statistics, latest profile actions and statistics about "Top Name Bids" and "Top Voters"
+- [EOS Tracker](https://eostracker.io/) - Open Source block explorer includes producers information and account information
   - More information:
     - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - Official GitHub
-- [ScanEOS](https://scaneos.io/) - Block explorer
-- [EOSweb](https://eosweb.net/) - Block explorer
-- [EOSpark](https://eospark.com/) - Block explorer
-- [Bloks](https://bloks.io/) - Block explorer
-- [EOS Checker](https://eoschecker.io/) - Block explorer
+- [EOSpark](https://eospark.com/) - One of the first block explorers includes various statistics amd ability to browse Jungle Testnet which is useful for developers
+- [ScanEOS](https://scaneos.io/) - Advanced block explorer with various statistics and tools including name auctions. Scatter friendly
+- [Bloks](https://bloks.io/) - Fast block explorer, can be used for voting. Includes information about block producers and tokens
+- [EOSweb](https://eosweb.net/) - Simple block explorer includes Top 200 Accounts information
+- [EOS Checker](https://eoschecker.io/) - Simple block explorer includes resource statistics, latest profile actions and other account information
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer
-- [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer
-- [EOSQuery](https://eosquery.com/) - Block explorer
-- [eosmonitor](https://eosmonitor.io/) - Block explorer
-- [EOSCANNER](https://www.eoscanner.io/) - Block explorer
+- [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer with various statistics, especially useful to see which block producers are elected BPs and which ones are backup BPs
+- [EOSQuery](https://eosquery.com/) - Simple block explorer by EOS Canada
+- [eosmonitor](https://eosmonitor.io/) - Chinese block explorer
+- [EOSCANNER](https://www.eoscanner.io/) - Standard block explorer
 
 ### <a id="eos-ram-trading-platforms-and-resource-calculators-users"></a>EOS RAM trading platforms and Resource calculators
 
