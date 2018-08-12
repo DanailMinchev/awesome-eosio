@@ -1,13 +1,13 @@
-# Awesome EOS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome EOSIO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
 
 > A curated list of EOS resources https://eos.io/
 
+<p>EOSIO - the most powerful infrastructure for decentralized applications<br /></p>
 
-![EOS](https://raw.githubusercontent.com/DanailMinchev/awesome-eos/master/eos-logo.png)
 
-
-Contents
-==============================
+# Contents
 
 - [Official](#official)
 - [Users](#users)
@@ -44,8 +44,7 @@ Contents
 
 
 
-Official
-==============================
+# Official
 
 Official resources
 
@@ -61,8 +60,7 @@ Official resources
 - [Block.one](https://block.one/)
 
 
-Users
-==============================
+# Users
 
 All about EOS.IO platform for users
 
@@ -186,8 +184,7 @@ Various software and tools
 - [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics
 
 
-Developers
-==============================
+# Developers
 
 All about development on EOS.IO platform
 
@@ -290,8 +287,7 @@ All about development on EOS.IO platform
 - [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOS blockchain data to mongodb database
 
 
-Community
-==============================
+# Community
 
 
 ## Blogs (community)
@@ -354,8 +350,7 @@ Community
 - [eostea](https://github.com/eostea/awesome-eos)
 
 
-DApps
-==============================
+# DApps
 
 DApp resources
 
@@ -403,8 +398,7 @@ DApp resources
     - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Official GitHub
 
 
-Exchanges
-==============================
+# Exchanges
 
 EOS focused exchanges
 
@@ -415,8 +409,7 @@ EOS focused exchanges
 - [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development
 
 
-Forks
-==============================
+# Forks
 
 EOS forks
 
@@ -426,8 +419,7 @@ EOS forks
 - [Worbli](https://www.worbli.io/)
 
 
-Markets
-==============================
+# Markets
 
 
 - [CoinMarketCap](https://coinmarketcap.com/currencies/eos/)
@@ -437,14 +429,12 @@ Markets
     - [EOS Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/EOS.registry.json)
 
 
-Contribute
-==============================
+# Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-License
-==============================
+# License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
