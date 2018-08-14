@@ -2,9 +2,14 @@
 
 [<img src="eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
 
-> A curated list of EOSIO resources https://eos.io/
+> A curated list of awesome [EOSIO](https://eos.io/) resources for users and developers.
 
-<p>EOSIO - the most powerful infrastructure for decentralized applications.<br /></p>
+<p>
+  EOSIO is the most powerful infrastructure for decentralized applications and open source smart contract platform.<br />
+  EOSIO software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
+</p>
+
+<p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
 
 
 ## Contents
