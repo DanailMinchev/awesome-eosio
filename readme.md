@@ -7,44 +7,42 @@
 <p>EOSIO - the most powerful infrastructure for decentralized applications.<br /></p>
 
 
-# Contents
+## Contents
 
 - [Official](#official)
 - [Users](#users)
-  - [Learning resources](#learning-resources-users)
-- [Tools](#tools-users)
-  - [Wallets and Toolkits](#wallets-and-toolkits-users)
-  - [Account services](#account-services-users)
-  - [Block explorers, Voting portals](#block-explorers-voting-portals-users)
-  - [EOS RAM trading platforms and Resource calculators](#eos-ram-trading-platforms-and-resource-calculators-users)
-  - [Block Producers](#block-producers-users)
+  - [Learning resources](#learning-resources)
+- [Tools](#tools)
+  - [Wallets and Toolkits](#wallets-and-toolkits)
+  - [Account services](#account-services)
+  - [Block explorers, Voting portals](#block-explorers-voting-portals)
+  - [EOS RAM trading platforms and Resource calculators](#eos-ram-trading-platforms-and-resource-calculators)
+  - [Block Producers](#block-producers)
 - [Developers](#developers)
-  - [Learning resources](#learning-resources-developers)
-  - [Libraries and Frameworks](#libraries-and-frameworks-developers)
-  - [Tools](#tools-developers)
-  - [Testnets](#testnets-developers)
-  - [Block Producer tools](#block-producer-tools-developers)
-  - [Other](#other-developers)
+  - [Learning resources for developers](#learning-resources-for-developers)
+  - [Libraries and Frameworks](#libraries-and-frameworks)
+  - [Developer Tools](#developer-tools)
+  - [Testnets](#testnets)
+  - [Block Producer tools](#block-producer-tools)
+  - [Other in Developers](#other-in-developers)
 - [Community](#community)
-  - [Blogs](#blogs-community)
-  - [YouTube Channels](#youtube-channels-community)
-  - [Forums](#forums-community)
-  - [Related awesome lists](#related-awesome-lists-community)
+  - [Blogs](#blogs)
+  - [YouTube Channels](#youtube-channels)
+  - [Forums](#forums)
+  - [Related awesome lists](#related-awesome-lists)
 - [DApps](#dapps)
-  - [DApp directories](#dapp-directories-dapps)
-  - [Airdrop trackers](#airdrop-trackers-dapps)
-  - [Leasing platforms](#leasing-platforms-dapps)
-  - [Games](#games-dapps)
-  - [Other](#other-dapps)
+  - [DApp directories](#dapp-directories)
+  - [Airdrop trackers](#airdrop-trackers)
+  - [Leasing platforms](#leasing-platforms)
+  - [Games](#games)
+  - [Other in DApps](#other-in-dapps)
 - [Exchanges](#exchanges)
 - [Forks](#forks)
 - [Markets](#markets)
-- [Contribute](#contribute)
-- [License](#license)
 
 
 
-# <a id="official"></a>Official
+## Official
 
 Official resources.
 
@@ -60,15 +58,15 @@ Official resources.
 - [Block.one](https://block.one/)
 
 
-# <a id="users"></a>Users
+## Users
 
 All about EOSIO platform for users.
 
 
-## <a id="learning-resources-users"></a>Learning resources
+### Learning resources
 
 
-### <a id="websites-users"></a>Websites
+#### Websites
 
 - [EOS Bootcamp](https://eosbootcamp.com/)
 - [All Things EOS](http://allthingseos.com/)
@@ -77,7 +75,7 @@ All about EOSIO platform for users.
 - [EOS - Trybe](https://trybe.one/learn-eos/)
 - [EOS Learning Resources - EOS Costa Rica](https://learn.eoscostarica.io/)
 
-### <a id="general-guides-articles-and-videos-users"></a>General guides, articles and videos
+#### General guides, articles and videos
 
 - [The Complete Guide To Moving EOS Tokens Off Of Exchanges](https://medium.com/eos-new-york/the-complete-guide-for-moving-eos-tokens-off-of-exchanges-4c40b6155ecd) - Article.
 - [The Ultimate Guide to EOS Wallets and Other Tools](https://trybe.one/the-ultimate-guide-to-eos-tools/) - Article.
@@ -86,12 +84,12 @@ All about EOSIO platform for users.
 - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 
 
-## <a id="tools-users"></a>Tools
+## Tools
 
 Various software and tools.
 
 
-### <a id="wallets-and-toolkits-users"></a>Wallets and Toolkits
+### Wallets and Toolkits
 
 - [cleos](https://developers.eos.io/eosio-nodeos/docs/cleos-overview)
   - [EOSIO/eos](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO).
@@ -129,13 +127,13 @@ Various software and tools.
   - [Introducing Cypherglass LENS a new EOS Voting Tool](https://steemit.com/eos/@cypherglass/introducing-cypherglass-lens-a-new-eos-voting-tool) - Article.
   - [How to Vote for EOS Block Producers with Cypherglass LENS](https://www.youtube.com/watch?v=hDDh77Hw5iI) - YouTube.
 
-### <a id="account-services-users"></a>Account services
+### Account services
 
 - [Get alerts for transactions on an account - EOS Authority](https://eosauthority.com/alerts)
 - [ZEOS](https://www.zeos.co/) - Zeos is EOS account name purchase service.
   - [How To Buy/Create an Eos Account (wallet) With zEOS](https://www.youtube.com/watch?v=q8kcs1MuPNE) - YouTube.
 
-### <a id="block-explorers-voting-portals-users"></a>Block explorers, Voting portals
+### Block explorers, Voting portals
 
 - [EOS Portal](https://eosportal.io/chain/12/producers) - The first EOS community voting portal. Scatter friendly.
 - [EOS Network Monitor](http://eosnetworkmonitor.io/) - EOS Network Monitor by CryptoLions. Useful for developers. Scatter friendly.
@@ -153,7 +151,7 @@ Various software and tools.
 - [eosmonitor](https://eosmonitor.io/) - Chinese block explorer.
 - [EOSCANNER](https://www.eoscanner.io/) - Standard block explorer.
 
-### <a id="eos-ram-trading-platforms-and-resource-calculators-users"></a>EOS RAM trading platforms and Resource calculators
+### EOS RAM trading platforms and Resource calculators
 
 - [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator.
   - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub.
@@ -162,7 +160,7 @@ Various software and tools.
 - [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics.
 - [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOS RAM Whale Watch.
 
-### <a id="block-producers-users"></a>Block Producers
+### Block Producers
 
 - [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOS Go Block Producer List.
 - [GLASS](https://glass.cypherglass.com/) - EOS Block Producer Map.
@@ -172,21 +170,21 @@ Various software and tools.
 - [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics.
 
 
-# <a id="developers"></a>Developers
+## Developers
 
 All about development on EOSIO platform.
 
 
-## <a id="learning-resources-developers"></a>Learning resources
+### Learning resources for developers
 
 
-### <a id="websites-developers"></a>Websites
+#### Websites
 
 - [EOSIO Developer Portal](https://developers.eos.io/)
 - [EOS Node Tools](https://eosnode.tools/)
 - [EOSDocs.io - EOS developer documentation](https://www.eosdocs.io/)
 
-### <a id="general-guides-articles-and-videos-developers"></a>General guides, articles and videos
+#### General guides, articles and videos
 
 - [Building Distributed Apps With EOS.IO Blockchain](https://www.youtube.com/watch?v=E3Tx2DseLGE) - YouTube.
 - [How to setup VS Code and CLion for EOS dApp Development](https://infinitexlabs.com/setup-ide-for-eos-development/) - Article.
@@ -195,19 +193,19 @@ All about development on EOSIO platform.
 - [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980) - Article.
 - [Complete guide to creating an EOS airdrop](https://www.youtube.com/watch?v=E5JlA-29Wwk) - YouTube.
 
-### <a id="courses-workshops-webinars-and-books-developers"></a>Courses, workshops, webinars and books
+#### Courses, workshops, webinars and books
 
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
 - [Learn EOS Development](https://learneos.one/) - Book.
 
-### <a id="youtube-channels-developers"></a>YouTube Channels
+#### YouTube Channels
 
 - [Jackson Kelley](https://www.youtube.com/user/jackodwhacko)
 - [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress)
 - [Filip Martinsson](https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA)
 
-### <a id="examples-developers"></a>Examples
+#### Examples
 
 - [poorman.token](https://github.com/generEOS/poorman.token) - EOS Token with burning and signup (for making the token RAM cheap).
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
@@ -215,10 +213,10 @@ All about development on EOSIO platform.
 - [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOS blockchain.
 
 
-## <a id="libraries-and-frameworks-developers"></a>Libraries and Frameworks
+### Libraries and Frameworks
 
 
-### <a id="api-libraries-developers"></a>API libraries
+#### API libraries
 
 - [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript library.
 - [EOSIO/eosjs2](https://github.com/EOSIO/eosjs2) - Official TypeScript library.
@@ -227,14 +225,14 @@ All about development on EOSIO platform.
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library.
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - Elixir library.
 
-### <a id="frameworks-developers"></a>Frameworks
+#### Frameworks
 
 - [EOS Factory](http://eosfactory.io/) - Python-based EOS smart-contract development & unit testing framework.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub.
-- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - framework for interacting with EOS, written in Swift.
+- [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 
 
-## <a id="tools-developers"></a>Tools
+### Developer Tools
 
 
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
@@ -246,7 +244,7 @@ All about development on EOSIO platform.
 - [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOS keosd with Touch ID Secure Enclave.
 
 
-## <a id="testnets-developers"></a>Testnets
+### Testnets
 
 
 - [EOS Jungle Testnet](http://jungle.cryptolions.io/)
@@ -255,7 +253,7 @@ All about development on EOSIO platform.
   - [ScholarTestnet](https://github.com/ScholarTestnet) - Official GitHub.
 
 
-## <a id="block-producer-tools-developers"></a>Block Producer tools
+### Block Producer tools
 
 
 - [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOS nodes.
@@ -263,17 +261,17 @@ All about development on EOSIO platform.
 - [BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover) - EOS Block Producer Failover Scripts.
 
 
-## <a id="other-developers"></a>Other
+### Other in Developers
 
 
-- [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - command auto-completion for EOS cleos.
+- [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOS cleos.
 - [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOS blockchain data to mongodb database.
 
 
-# <a id="community"></a>Community
+## Community
 
 
-## <a id="blogs-community"></a>Blogs
+### Blogs
 
 
 - [Daniel Larimer](https://medium.com/@bytemaster)
@@ -295,7 +293,7 @@ All about development on EOSIO platform.
 - [cipherz](https://medium.com/@cipherz)
 
 
-## <a id="youtube-channels-community"></a>YouTube Channels
+### YouTube Channels
 
 
 - [EOS.IO](https://www.youtube.com/c/eosio)
@@ -314,7 +312,7 @@ All about development on EOSIO platform.
 - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 - [ICO Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
 
-## <a id="forums-community"></a>Forums
+### Forums
 
 
 - [EOS Go - Blockchain Community](https://forums.eosgo.io/)
@@ -324,7 +322,7 @@ All about development on EOSIO platform.
 - [EOS.IO - Stack Exchange](https://eosio.stackexchange.com/)
 
 
-## <a id="related-awesome-lists-community"></a>Related awesome lists
+### Related awesome lists
 
 
 - [EOS-Nation](https://github.com/EOS-Nation/Awesome-EOS)
@@ -333,19 +331,19 @@ All about development on EOSIO platform.
 - [eostea](https://github.com/eostea/awesome-eos)
 
 
-# <a id="dapps"></a>DApps
+## DApps
 
 DApp resources.
 
 
-## <a id="dapp-directories-dapps"></a>DApp directories
+### DApp directories
 
 - [EOSindex](https://eosindex.io/)
 - [EOS Projects](https://eosprojects.org/)
 - [EOSapps.net](https://eosapps.net/)
 - [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article.
 
-## <a id="airdrop-trackers-dapps"></a>Airdrop trackers
+### Airdrop trackers
 
 - [airdropsforeos](https://airdropsforeos.com/)
 - [EOS Drops](https://www.eosdrops.io/)
@@ -356,11 +354,11 @@ DApp resources.
 - [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
 - [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
 
-## <a id="leasing-platforms-dapps"></a>Leasing platforms
+### Leasing platforms
 
 - [Chintai](https://chintai-eos.io/)
 
-## <a id="games-dapps"></a>Games
+### Games
 
 - [King Of EOS](https://kingofeos.com/)
   - [MrToph/KingOfEos](https://github.com/MrToph/KingOfEos) - Official GitHub.
@@ -371,14 +369,14 @@ DApp resources.
 - [CryptoWizards](https://wizards.one/)
 - [EOS Button](https://eosbutton.io/)
 
-## <a id="other-dapps"></a>Other
+### Other in DApps
 
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOS blockchain.
 - [DecenTwitter](https://decentwitter.com/) - Decentralized Twitter on EOS.
   - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Official GitHub.
 
 
-# <a id="exchanges"></a>Exchanges
+## Exchanges
 
 EOS focused exchanges.
 
@@ -389,7 +387,7 @@ EOS focused exchanges.
 - [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development.
 
 
-# <a id="forks"></a>Forks
+## Forks
 
 EOS forks.
 
@@ -399,7 +397,7 @@ EOS forks.
 - [Worbli](https://www.worbli.io/)
 
 
-# <a id="markets"></a>Markets
+## Markets
 
 
 - [CoinMarketCap](https://coinmarketcap.com/currencies/eos/)
@@ -408,12 +406,12 @@ EOS forks.
   - [EOS Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/EOS.registry.json)
 
 
-# <a id="contribute"></a>Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-# <a id="license"></a>License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
