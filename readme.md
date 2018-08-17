@@ -21,7 +21,7 @@
   - [Wallets and Toolkits](#wallets-and-toolkits)
   - [Account services](#account-services)
   - [Block explorers, Voting portals](#block-explorers-voting-portals)
-  - [EOS RAM trading platforms and Resource calculators](#eos-ram-trading-platforms-and-resource-calculators)
+  - [EOSIO RAM trading platforms and Resource calculators](#eosio-ram-trading-platforms-and-resource-calculators)
   - [Block Producers](#block-producers)
 - [Developers](#developers)
   - [Learning resources for developers](#learning-resources-for-developers)
@@ -135,13 +135,13 @@ Various software and tools.
 ### Account services
 
 - [Get alerts for transactions on an account - EOS Authority](https://eosauthority.com/alerts)
-- [ZEOS](https://www.zeos.co/) - Zeos is EOS account name purchase service.
+- [ZEOS](https://www.zeos.co/) - Zeos is EOSIO account name purchase service.
   - [How To Buy/Create an Eos Account (wallet) With zEOS](https://www.youtube.com/watch?v=q8kcs1MuPNE) - YouTube.
 
 ### Block explorers, Voting portals
 
-- [EOS Portal](https://eosportal.io/chain/12/producers) - The first EOS community voting portal. Scatter friendly.
-- [EOS Network Monitor](http://eosnetworkmonitor.io/) - EOS Network Monitor by CryptoLions. Useful for developers. Scatter friendly.
+- [EOS Portal](https://eosportal.io/chain/12/producers) - The first EOSIO community voting portal. Scatter friendly.
+- [EOS Network Monitor](http://eosnetworkmonitor.io/) - EOSIO Network Monitor by "CryptoLions". Useful for developers. Scatter friendly.
 - [eosflare](https://eosflare.io/) - Popular block explorer includes resource statistics, latest profile actions and statistics about "Top Name Bids" and "Top Voters".
 - [EOS Tracker](https://eostracker.io/) - Open Source block explorer includes producers information and account information.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - Official GitHub.
@@ -152,27 +152,27 @@ Various software and tools.
 - [EOS Checker](https://eoschecker.io/) - Simple block explorer includes resource statistics, latest profile actions and other account information.
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
 - [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer with various statistics, especially useful to see which block producers are elected BPs and which ones are backup BPs.
-- [EOSQuery](https://eosquery.com/) - Simple block explorer by EOS Canada.
+- [EOSQuery](https://eosquery.com/) - Simple block explorer by "EOS Canada".
 - [eosmonitor](https://eosmonitor.io/) - Chinese block explorer.
 - [EOSCANNER](https://www.eoscanner.io/) - Standard block explorer.
 
-### EOS RAM trading platforms and Resource calculators
+### EOSIO RAM trading platforms and Resource calculators
 
-- [EOS Resource Planner](https://www.eosrp.io/) - EOS Resource Planner and Calculator.
+- [EOS Resource Planner](https://www.eosrp.io/) - EOSIO Resource Planner and Calculator.
   - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub.
-- [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOS RAM Price platform.
+- [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOSIO RAM Price platform.
 - [EOS RAM Market](https://www.buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API.
-- [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOS RAM Calculator and Statistics.
-- [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOS RAM Whale Watch.
+- [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOSIO RAM Calculator and Statistics.
+- [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOSIO RAM Whale Watch.
 
 ### Block Producers
 
-- [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOS Go Block Producer List.
-- [GLASS](https://glass.cypherglass.com/) - EOS Block Producer Map.
+- [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOSIO Go Block Producer List.
+- [GLASS](https://glass.cypherglass.com/) - EOSIO Block Producer Map.
   - [Glass, A Tool to Protect the EOS Network](https://www.youtube.com/watch?v=kU4jkqxBIeU) - YouTube.
-- [EOS Radar](https://www.eos-radar.com/) - EOS Block Producer Map.
+- [EOS Radar](https://www.eos-radar.com/) - EOSIO Block Producer Map.
 - [EOS Block Producer Research Portal](https://www.alohaeos.com/vote)
-- [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOS Block Producer Votes statistics.
+- [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOSIO Block Producer Votes statistics.
 
 
 ## Developers
@@ -212,10 +212,10 @@ All about development on EOSIO platform.
 
 #### Examples
 
-- [poorman.token](https://github.com/generEOS/poorman.token) - EOS Token with burning and signup (for making the token RAM cheap).
+- [poorman.token](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
-- [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOS / React.js.
-- [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOS blockchain.
+- [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
+- [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 
 
 ### Libraries and Frameworks
@@ -232,7 +232,7 @@ All about development on EOSIO platform.
 
 #### Frameworks
 
-- [EOS Factory](http://eosfactory.io/) - Python-based EOS smart-contract development & unit testing framework.
+- [EOS Factory](http://eosfactory.io/) - Python-based EOSIO smart-contract development & unit testing framework.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 
@@ -244,9 +244,9 @@ All about development on EOSIO platform.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSSnapshots.io](https://www.eossnapshots.io/) - Snapshots As A Service.
   - [Snapshots As A Service: Airdrops for All](https://medium.com/eos-new-york/snapshots-as-a-service-airdrops-for-all-2bd51548b1ac) - Article.
-- [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOS blockchain.
+- [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 - [Octopus](https://github.com/quoscient/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
-- [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOS keosd with Touch ID Secure Enclave.
+- [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOSIO keosd with Touch ID Secure Enclave.
 
 
 ### Testnets
@@ -261,16 +261,16 @@ All about development on EOSIO platform.
 ### Block Producer tools
 
 
-- [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOS nodes.
+- [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOSIO nodes.
 - [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - A dashboard tool for monitoring internal Block Producer infrastructure.
-- [BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover) - EOS Block Producer Failover Scripts.
+- [BlockMatrixNetwork/eos-bp-failover](https://github.com/BlockMatrixNetwork/eos-bp-failover) - EOSIO Block Producer Failover Scripts.
 
 
 ### Other in Developers
 
 
-- [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOS cleos.
-- [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOS blockchain data to mongodb database.
+- [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
+- [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
 
 
 ## Community
@@ -376,14 +376,14 @@ DApp resources.
 
 ### Other in DApps
 
-- [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOS blockchain.
+- [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 - [DecenTwitter](https://decentwitter.com/) - Decentralized Twitter on EOS.
   - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Official GitHub.
 
 
 ## Exchanges
 
-EOS focused exchanges.
+EOSIO focused exchanges.
 
 
 - [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly.
@@ -394,7 +394,7 @@ EOS focused exchanges.
 
 ## Forks
 
-EOS forks.
+EOSIO forks.
 
 
 - [EvolutionOS](https://www.evolutionos.com/)
