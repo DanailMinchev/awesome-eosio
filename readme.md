@@ -344,6 +344,7 @@ DApp resources.
 ### DApp directories
 
 - [EOSindex](https://eosindex.io/)
+- [DappRadar](https://dappradar.com/eos-dapps)
 - [EOS Projects](https://eosprojects.org/)
 - [EOSapps.net](https://eosapps.net/)
 - [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article.
