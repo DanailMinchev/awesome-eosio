@@ -387,6 +387,7 @@ EOSIO focused exchanges.
 
 
 - [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly.
+- [Newdex](https://newdex.io/) - Decentralised, Airdrops friendly.
 - [DEXEOS](https://dexeos.io/) - Decentralised, Beta version, Airdrops friendly.
 - [EOSfinex](https://eosfinex.com/) - Decentralised, Under Development.
 - [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development.
