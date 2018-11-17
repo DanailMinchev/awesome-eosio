@@ -43,7 +43,6 @@
   - [Other in DApps](#other-in-dapps)
 - [Exchanges](#exchanges)
 - [Forks](#forks)
-- [Markets](#markets)
 
 
 
@@ -75,6 +74,7 @@ All about EOSIO platform for users.
 
 - [EOS Bootcamp](https://eosbootcamp.com/)
 - [All Things EOS](http://allthingseos.com/)
+- [EOS GO - Homepage for all things EOS](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [Cypherglass Help](https://www.cypherglass.com/help)
 - [EOS - Trybe](https://trybe.one/learn-eos/)
@@ -103,12 +103,7 @@ Various software and tools.
   - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) - EOSIO StackExchange.
   - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - Article.
 - [Scatter](https://get-scatter.com/)
-  - [EOSEssentials/Scatter](https://github.com/EOSEssentials/Scatter) - Official GitHub.
-  - [How to safely install Scatter onto your local computer](https://www.youtube.com/watch?v=6770ySYX_8Y) - YouTube.
-  - [Voting using Scatter an EOS Portal](https://www.youtube.com/watch?v=_hWRAjLKa8w) - YouTube.
-  - [Scatter - Going through Scatter for Users](https://www.youtube.com/watch?v=omfdC5zfXOE) - YouTube.
-- [Scattellet](https://scattellet.com/)
-  - [EOSEssentials/Scattellet](https://github.com/EOSEssentials/Scattellet) - Official GitHub.
+  - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Official GitHub.
 - [EOS Toolkit](https://eostoolkit.io/)
   - [eostoolkit/eostoolkit](https://github.com/eostoolkit/eostoolkit) - Official GitHub.
   - [EOS Toolkit by Genereos](https://www.youtube.com/watch?v=dg7mIWPnV0E) - YouTube.
@@ -146,15 +141,10 @@ Various software and tools.
 - [EOS Tracker](https://eostracker.io/) - Open Source block explorer includes producers information and account information.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - Official GitHub.
 - [EOSpark](https://eospark.com/) - One of the first block explorers includes various statistics amd ability to browse Jungle Testnet which is useful for developers.
-- [ScanEOS](https://scaneos.io/) - Advanced block explorer with various statistics and tools including name auctions. Scatter friendly.
 - [Bloks](https://bloks.io/) - Fast block explorer, can be used for voting. Includes information about block producers and tokens.
 - [EOSweb](https://eosweb.net/) - Simple block explorer includes Top 200 Accounts information.
-- [EOS Checker](https://eoschecker.io/) - Simple block explorer includes resource statistics, latest profile actions and other account information.
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
 - [EOS Explorer](http://explorer.eosvibes.io/) - Block explorer with various statistics, especially useful to see which block producers are elected BPs and which ones are backup BPs.
-- [EOSQuery](https://eosquery.com/) - Simple block explorer by "EOS Canada".
-- [eosmonitor](https://eosmonitor.io/) - Chinese block explorer.
-- [EOSCANNER](https://www.eoscanner.io/) - Standard block explorer.
 
 ### EOSIO RAM trading platforms and Resource calculators
 
@@ -162,8 +152,6 @@ Various software and tools.
   - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub.
 - [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOSIO RAM Price platform.
 - [EOS RAM Market](https://www.buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API.
-- [EOS Ram Buying Calculator](https://www.marketstackd.io/) - EOSIO RAM Calculator and Statistics.
-- [Whale Watch by BlockSmith](http://utility.eosblocksmith.io:4000/) - EOSIO RAM Whale Watch.
 
 ### Block Producers
 
@@ -204,7 +192,7 @@ All about development on EOSIO platform.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
 - [Learn EOS Development](https://learneos.one/) - Book.
 
-#### YouTube Channels
+#### YouTube Channels for developers
 
 - [Jackson Kelley](https://www.youtube.com/user/jackodwhacko)
 - [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress)
@@ -212,6 +200,7 @@ All about development on EOSIO platform.
 
 #### Examples
 
+- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
 - [poorman.token](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
 - [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
@@ -224,7 +213,6 @@ All about development on EOSIO platform.
 #### API libraries
 
 - [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - Official JavaScript library.
-- [EOSIO/eosjs2](https://github.com/EOSIO/eosjs2) - Official TypeScript library.
 - [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - Go library.
 - [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library.
@@ -232,6 +220,8 @@ All about development on EOSIO platform.
 
 #### Frameworks
 
+- [Demux](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+  - [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 - [EOS Factory](http://eosfactory.io/) - Python-based EOSIO smart-contract development & unit testing framework.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
@@ -239,7 +229,7 @@ All about development on EOSIO platform.
 
 ### Developer Tools
 
-
+- [EOSIO.CDT](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSSnapshots.io](https://www.eossnapshots.io/) - Snapshots As A Service.
@@ -251,15 +241,11 @@ All about development on EOSIO platform.
 
 ### Testnets
 
-
 - [EOS Jungle Testnet](http://jungle.cryptolions.io/)
   - [CryptoLions/EOS-Jungle-Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Official GitHub.
-- [EOSIO Scholar Testnet](https://scholar.eosnation.io/)
-  - [ScholarTestnet](https://github.com/ScholarTestnet) - Official GitHub.
 
 
 ### Block Producer tools
-
 
 - [Patroneos](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOSIO nodes.
 - [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - A dashboard tool for monitoring internal Block Producer infrastructure.
@@ -267,7 +253,6 @@ All about development on EOSIO platform.
 
 
 ### Other in Developers
-
 
 - [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
 - [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
@@ -277,7 +262,6 @@ All about development on EOSIO platform.
 
 
 ### Blogs
-
 
 - [Daniel Larimer](https://medium.com/@bytemaster)
 - [eosio](https://medium.com/@eosio)
@@ -300,25 +284,24 @@ All about development on EOSIO platform.
 
 ### YouTube Channels
 
-
 - [EOS.IO](https://www.youtube.com/c/eosio)
 - [EOS Go](https://www.youtube.com/c/EOSGo)
 - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
-- [EOS San Diego](https://www.youtube.com/channel/UC0J-dSIBvRyXtuurG97i4NQ)
 - [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w)
-- [EOS Tips](https://www.youtube.com/channel/UC-pGtazr7k8HG_Sge6s_lbw)
 - [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
+- [nsjames](https://www.youtube.com/user/grandmoren1)
+- [Crypto Dunker](https://www.youtube.com/user/clamantfever)
+- [EOS Tips](https://www.youtube.com/channel/UC-pGtazr7k8HG_Sge6s_lbw)
 - [EOS Canada](https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ)
 - [Cypherglass](https://www.youtube.com/channel/UCnXofUeO5w1dO9JGWWDdqPQ)
 - [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw)
 - [EOS New York](https://www.youtube.com/channel/UCg7aeCSXUTP49w_elxgYIXA)
-- [nsjames](https://www.youtube.com/user/grandmoren1)
+- [EOS San Diego](https://www.youtube.com/channel/UC0J-dSIBvRyXtuurG97i4NQ)
 - [EOS - Educational Series](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
 - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 - [ICO Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
 
 ### Forums
-
 
 - [EOS Go - Blockchain Community](https://forums.eosgo.io/)
 - [EosTalk](https://eostalk.io/)
@@ -328,7 +311,6 @@ All about development on EOSIO platform.
 
 
 ### Related awesome lists
-
 
 - [EOS-Nation](https://github.com/EOS-Nation/Awesome-EOS)
 - [Netherdrake](https://github.com/Netherdrake/awesome-eos)
@@ -354,11 +336,9 @@ DApp resources.
 - [airdropsforeos](https://airdropsforeos.com/)
 - [EOS Drops](https://www.eosdrops.io/)
 - [Airdrop Balances Calculator](http://airdropcalculator.horuspay.io/)
-- [Chainverse](http://chainverse.com/eos-airdrops/)
 - [Airdrops - EOSDocs.io](https://www.eosdocs.io/resources/airdrops/)
 - [EOS Airdrop Tracker - Google Sheets](https://docs.google.com/spreadsheets/d/10YwFRklMpu99OzqzUUVXhwP4SAytlUOje29WMgtUqe0)
 - [EOS AIRDROPS - Google Sheets](https://docs.google.com/spreadsheets/d/1fsyDBqAOAeJZoUwko-XtqYSMlCNA3o7UJlNkySJzKxY)
-- [EOScout](https://eoscout.com/eos-airdrops-list-calendar.html)
 
 ### Leasing platforms
 
@@ -373,7 +353,6 @@ DApp resources.
 - [MonsterEOS](https://monstereos.io/)
   - [leordev/monstereos](https://github.com/leordev/monstereos) - Official GitHub.
 - [CryptoWizards](https://wizards.one/)
-- [EOS Button](https://eosbutton.io/)
 
 ### Other in DApps
 
@@ -387,11 +366,12 @@ DApp resources.
 EOSIO focused exchanges.
 
 
+- [BancorX](https://eos.bancor.network/) - Decentralised, Airdrops friendly. First Cross-Blockchain Decentralized Liquidity Network. Convert EOS tokens directly from your wallet.
 - [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly.
 - [Newdex](https://newdex.io/) - Decentralised, Airdrops friendly.
 - [DEXEOS](https://dexeos.io/) - Decentralised, Beta version, Airdrops friendly.
-- [EOSfinex](https://eosfinex.com/) - Decentralised, Under Development.
-- [EOSDAQ](https://eosdaq.com/) - Decentralised, Under Development.
+- [EOSDAQ](https://eosdaq.com/) - Decentralised, Airdrops friendly.
+- [EOSfinex](https://www.eosfinex.com/) - Decentralised, Under Development.
 
 
 ## Forks
@@ -399,18 +379,11 @@ EOSIO focused exchanges.
 EOSIO forks.
 
 
-- [EvolutionOS](https://www.evolutionos.com/)
-- [Telos](https://telosfoundation.io/)
 - [Worbli](https://www.worbli.io/)
-
-
-## Markets
-
-
-- [CoinMarketCap](https://coinmarketcap.com/currencies/eos/)
-- [CryptoCompare](https://www.cryptocompare.com/coins/eos/overview/)
-- [Blockmodo](https://blockmodo.com/quotes/EOS)
-  - [EOS Market Registry File](https://github.com/Blockmodo/coin_registry/blob/master/coins/EOS.registry.json)
+- [Telos](https://telosfoundation.io/)
+- [EvolutionOS](https://www.evolutionos.com/)
+- [Worldwide Asset eXchange™](https://wax.io/)
+- [eosBLACK](https://eosblack.io/)
 
 
 ## Contribute
