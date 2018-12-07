@@ -77,7 +77,7 @@ All about EOSIO platform for users.
 - [EOS GO - Homepage for all things EOS](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [Cypherglass Help](https://www.cypherglass.com/help)
-- [EOS - Trybe](https://trybe.one/learn-eos/)
+- [EOS - Trybe](https://trybe.one/eos-cryptocurrency/)
 - [EOS Learning Resources - EOS Costa Rica](https://learn.eoscostarica.io/)
 
 #### General guides, articles and videos
@@ -174,6 +174,8 @@ All about development on EOSIO platform.
 #### Websites
 
 - [EOSIO Developer Portal](https://developers.eos.io/)
+- [Elemental Battles](https://battles.eos.io/)
+  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
 - [EOS Node Tools](https://eosnode.tools/)
 - [EOSDocs.io - EOS developer documentation](https://www.eosdocs.io/)
 
@@ -188,9 +190,11 @@ All about development on EOSIO platform.
 
 #### Courses, workshops, webinars and books
 
-- [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
+- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
+- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
 - [Learn EOS Development](https://learneos.one/) - Book.
+- [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
 
 #### YouTube Channels for developers
 
