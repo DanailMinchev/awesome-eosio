@@ -384,9 +384,14 @@ EOSIO forks.
 
 
 - [Worbli](https://www.worbli.io/)
+  - [Worbli.Bloks.io](https://worbli.bloks.io/) - Worbli Block Explorer.
 - [Telos](https://telosfoundation.io/)
-- [EvolutionOS](https://www.evolutionos.com/)
+  - [Telos Foundation GitHub](https://github.com/Telos-Foundation) - Official GitHub.
+  - [Sqrl](https://github.com/Telos-Foundation/Sqrl) - Telos Full Wallet & Governance DApp.
+  - [Telos.eosx.io](https://telos.eosx.io/) - Telos Block Explorer.
+  - [TelosPortal](https://portal.telosgermany.io/) - All in one web wallet for Telos and EOS Blockchains.
 - [Worldwide Asset eXchange™](https://wax.io/)
+- [EvolutionOS](https://www.evolutionos.com/)
 - [eosBLACK](https://eosblack.io/)
 
 
