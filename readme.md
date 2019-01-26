@@ -155,7 +155,6 @@ Various software and tools.
 
 ### Block Producers
 
-- [Discover EOS Block Producer Candidates](https://bp.eosgo.io/) - EOSIO Go Block Producer List.
 - [GLASS](https://glass.cypherglass.com/) - EOSIO Block Producer Map.
   - [Glass, A Tool to Protect the EOS Network](https://www.youtube.com/watch?v=kU4jkqxBIeU) - YouTube.
 - [EOS Radar](https://www.eos-radar.com/) - EOSIO Block Producer Map.
@@ -388,7 +387,7 @@ EOSIO forks.
 - [Telos](https://telosfoundation.io/)
   - [Telos Foundation GitHub](https://github.com/Telos-Foundation) - Official GitHub.
   - [Sqrl](https://github.com/Telos-Foundation/Sqrl) - Telos Full Wallet & Governance DApp.
-  - [Telos.eosx.io](https://telos.eosx.io/) - Telos Block Explorer.
+  - [Telos Block Explorer](https://telos.eosx.io/) - Block Explorer.
   - [TelosPortal](https://portal.telosgermany.io/) - All in one web wallet for Telos and EOS Blockchains.
 - [Worldwide Asset eXchange™](https://wax.io/)
 - [EvolutionOS](https://www.evolutionos.com/)
