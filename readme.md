@@ -228,7 +228,7 @@ All about development on EOSIO platform.
 - [EOS Factory](http://eosfactory.io/) - Python-based EOSIO smart-contract development & unit testing framework.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Official GitHub.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
-- [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps
+- [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 
 
 ### Developer Tools
