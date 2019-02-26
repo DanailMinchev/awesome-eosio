@@ -5,7 +5,7 @@
 > A curated list of awesome [EOSIO](https://eos.io/) resources for users and developers.
 
 <p>
-  EOSIO is the most powerful infrastructure for decentralized applications and open source smart contract platform.<br />
+  EOSIO is the most powerful infrastructure for decentralized applications and open source smart contract platform.
   EOSIO software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
 </p>
 
@@ -51,14 +51,14 @@
 Official resources.
 
 
-- [EOSIO Website](https://eos.io/)
-- [EOSIO GitHub](https://github.com/eosio)
-- [EOSIO Technical White Paper](https://github.com/EOSIO/Documentation)
-- [EOSIO Bug Bounty Program](https://hackerone.com/eosio)
-- [EOSIO Blog](https://medium.com/eosio)
-- [EOSIO Developer Portal](https://developers.eos.io/)
-- [EOSIO StackExchange for Q&A](https://eosio.stackexchange.com/)
-- [EOSIO YouTube](https://www.youtube.com/c/eosio)
+- [Website](https://eos.io/)
+- [GitHub](https://github.com/eosio)
+- [Technical White Paper](https://github.com/EOSIO/Documentation)
+- [Bug Bounty Program](https://hackerone.com/eosio)
+- [Blog](https://medium.com/eosio)
+- [Developer Portal](https://developers.eos.io/)
+- [StackExchange for Q&A](https://eosio.stackexchange.com/)
+- [YouTube](https://www.youtube.com/c/eosio)
 - [Block.one](https://block.one/)
 
 
@@ -151,7 +151,6 @@ Various software and tools.
 - [EOS Resource Planner](https://www.eosrp.io/) - EOSIO Resource Planner and Calculator.
   - [eosnewyork/erp](https://github.com/eosnewyork/erp) - Official GitHub.
 - [FeeXplorer - EOS RAM Price trading platform](https://eos.feexplorer.io/) - EOSIO RAM Price platform.
-- [EOS RAM Market](https://www.buyeosram.io/) - RAM market prices historically in candlestick form with realtime updates using the TradingView API.
 
 ### Block Producers
 
@@ -189,8 +188,6 @@ All about development on EOSIO platform.
 
 #### Courses, workshops, webinars and books
 
-- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
-- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
 - [Learn EOS Development](https://learneos.one/) - Book.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
@@ -267,43 +264,28 @@ All about development on EOSIO platform.
 
 ### Blogs
 
-- [Daniel Larimer](https://medium.com/@bytemaster)
-- [eosio](https://medium.com/@eosio)
-- [EOS Go](https://steemit.com/@eosgo)
-- [Blockgenic](https://medium.com/@blockgenic)
-- [cc32d9](https://medium.com/@cc32d9)
-- [Dallas Rushing](https://steemit.com/@dallasrushing)
-- [Iang](https://steemit.com/@iang)
-- [EOS Canada](https://steemit.com/@eos-canada)
-- [Cypherglass](https://steemit.com/@cypherglass)
-- [EOS New York](https://medium.com/@eosnewyork)
-- [CryptoLions](https://steemit.com/@cryptolions)
-- [GenerEOS Australia](https://steemit.com/@genereos)
-- [Tokenika](https://steemit.com/@tokenika)
-- [eos sw/eden](https://steemit.com/@eos.sw-eden)
-- [EOS Rio](https://steemit.com/@eosrio)
-- [greymass](https://busy.org/@greymass)
-- [cipherz](https://medium.com/@cipherz)
+- [Daniel Larimer](https://medium.com/@bytemaster) - Blog of Daniel Larimer, founder of EOSIO.
+- [EOS Go](https://steemit.com/@eosgo) - Blog of EOS Go team. News and learning resources.
+- [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
+- [cc32d9](https://medium.com/@cc32d9) - cc32d9 blog, EOSIO developer related publications.
+- [Dallas Rushing](https://steemit.com/@dallasrushing) - Blog of Dallas Rushing, EOSIO user related content.
+- [Iang](https://steemit.com/@iang) - Blog of Iang, EOSIO user and developer related content.
+- [EOS Canada](https://steemit.com/@eos-canada) - EOS Canada blog, user related content and videos.
+- [Cypherglass](https://steemit.com/@cypherglass) - Cypherglass blog, user related content and videos. News.
+- [EOS New York](https://medium.com/@eosnewyork) - EOS New York blog, user and developer related content.
+- [greymass](https://busy.org/@greymass) - Cypherglass blog, user related content and articles. News.
 
 
 ### YouTube Channels
 
-- [EOS.IO](https://www.youtube.com/c/eosio)
-- [EOS Go](https://www.youtube.com/c/EOSGo)
-- [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
-- [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w)
-- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
-- [nsjames](https://www.youtube.com/user/grandmoren1)
-- [Crypto Dunker](https://www.youtube.com/user/clamantfever)
-- [EOS Tips](https://www.youtube.com/channel/UC-pGtazr7k8HG_Sge6s_lbw)
-- [EOS Canada](https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ)
-- [Cypherglass](https://www.youtube.com/channel/UCnXofUeO5w1dO9JGWWDdqPQ)
-- [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw)
-- [EOS New York](https://www.youtube.com/channel/UCg7aeCSXUTP49w_elxgYIXA)
-- [EOS San Diego](https://www.youtube.com/channel/UC0J-dSIBvRyXtuurG97i4NQ)
-- [EOS - Educational Series](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
-- [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
-- [ICO Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
+- [EOS Go](https://www.youtube.com/c/EOSGo) - ESO Go community meetings, podcasts, live streams. News and discussions.
+- [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag) - The Awakenment channel, discussions about EOSIO platform features and news.
+- [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w) - EOSIO ecosystem overview, news and market discussions.
+- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg) - Dallas Rushing channel. User related content and news.
+- [nsjames](https://www.youtube.com/user/grandmoren1) - Scatter related content.
+- [Crypto Dunker](https://www.youtube.com/user/clamantfever) - Crypto Dunker channel. EOSIO DApps related content and news.
+- [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw) - EOS Authority. Useful tutorials, developers related.
+
 
 ### Forums
 
@@ -331,7 +313,6 @@ DApp resources.
 
 - [EOSindex](https://eosindex.io/)
 - [DappRadar](https://dappradar.com/eos-dapps)
-- [EOS Projects](https://eosprojects.org/)
 - [EOSapps.net](https://eosapps.net/)
 - [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article.
 
