@@ -278,6 +278,7 @@ All about development on EOSIO platform.
 - [Cypherglass](https://steemit.com/@cypherglass) - Cypherglass blog, user related content and videos. News.
 - [EOS New York](https://medium.com/@eosnewyork) - EOS New York blog, user and developer related content.
 - [greymass](https://busy.org/@greymass) - Cypherglass blog, user related content and articles. News.
+- [EOSFinex product](https://medium.com/eosfinexproject) - EOSFinex exchange blog. Developer and news content related to EOSFinex product.
 
 
 ### YouTube Channels
