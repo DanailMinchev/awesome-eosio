@@ -188,6 +188,8 @@ All about development on EOSIO platform.
 
 #### Courses, workshops, webinars and books
 
+- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
+- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
 - [Learn EOS Development](https://learneos.one/) - Book.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
