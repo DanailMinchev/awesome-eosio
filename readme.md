@@ -219,7 +219,7 @@ All about development on EOSIO platform.
 - [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
 - [eosnet](https://github.com/SNIKO/eosnet) - .NET library.
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - Elixir library.
-- [React Native EOS](https://github.com/EvaCoop/react-native-eos) - Native implementation of client to EOS blockchain communication.
+- [React Native EOS](https://github.com/EvaCoop/react-native-eos) - Native implementation of client to eos blockchain communication.
 
 
 #### Frameworks
@@ -317,6 +317,7 @@ DApp resources.
 
 - [EOSindex](https://eosindex.io/)
 - [DappRadar](https://dappradar.com/eos-dapps)
+- [EOS Projects](https://eosprojects.org/)
 - [EOSapps.net](https://eosapps.net/)
 - [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article.
 
