@@ -242,6 +242,8 @@ All about development on EOSIO platform.
 
 ### Testnets
 
+- [The EOSIO Testnet](https://testnet.eos.io/)
+  - [EOSIO Testnet Launch](https://eos.io/news/eosio-testnet-launch/) - Article.
 - [EOS Jungle Testnet](http://jungle.cryptolions.io/)
   - [CryptoLions/EOS-Jungle-Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Official GitHub.
 
