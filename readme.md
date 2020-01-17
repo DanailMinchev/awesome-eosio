@@ -79,14 +79,13 @@ EOSIO learning resources.
 - [EOS Bootcamp](https://eosbootcamp.com/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://learn.eoscostarica.io/)
-- [Cypherglass Help](https://www.cypherglass.com/help)
 
 ### Courses, workshops, webinars and books
 
+- [EOSIO Webinars](https://eos.io/webinars/) - Official EOSIO Webinars.
 - [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
 - [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
-- [Learn EOS Development](https://learneos.one/) - Book.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
 
 
@@ -173,7 +172,6 @@ Block Producers related software and resources.
   - [Glass, A Tool to Protect the EOS Network](https://www.youtube.com/watch?v=kU4jkqxBIeU) - YouTube.
 - [EOS Radar](https://www.eos-radar.com/) - EOSIO Block Producer Map.
 - [EOS Block Producer Research Portal](https://www.alohaeos.com/vote)
-- [EOS Block Producer Votes Summary](http://eos-bp-votes.dapptools.info/s/api/block-producer-votes-stack-html/1/30) - EOSIO Block Producer Votes statistics.
 
 
 ## Developers
@@ -309,7 +307,6 @@ All about development on EOSIO platform.
 ### Forums
 
 - [EOS Go - Blockchain Community](https://forums.eosgo.io/)
-- [EosTalk](https://eostalk.io/)
 - [EOS - Reddit](https://www.reddit.com/r/eos/)
 - [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
 - [EOS.IO - Stack Exchange](https://eosio.stackexchange.com/)
@@ -325,7 +322,6 @@ DApp resources.
 - [EOSindex](https://eosindex.io/)
 - [DappRadar](https://dappradar.com/eos-dapps)
 - [EOS Projects](https://eosprojects.org/)
-- [EOSapps.net](https://eosapps.net/)
 - [EOS dApps Landscape: Complete List of EOS Decentralized Blockchain Applications](https://101blockchains.com/eos-dapps-landscape-complete-list/) - Article.
 
 ### Airdrop trackers
@@ -338,7 +334,7 @@ DApp resources.
 
 ### Leasing platforms
 
-- [Chintai](https://chintai-eos.io/)
+- [Chintai](https://chintai.io/)
 
 ### Games
 
@@ -363,10 +359,8 @@ EOSIO focused exchanges.
 
 
 - [BancorX](https://eos.bancor.network/) - Decentralised, Airdrops friendly. First Cross-Blockchain Decentralized Liquidity Network. Convert EOS tokens directly from your wallet.
-- [Chaince](https://chaince.com/) - Centralised, KYC, Airdrops friendly.
 - [Newdex](https://newdex.io/) - Decentralised, Airdrops friendly.
 - [DEXEOS](https://dexeos.io/) - Decentralised, Beta version, Airdrops friendly.
-- [EOSDAQ](https://eosdaq.com/) - Decentralised, Airdrops friendly.
 - [EOSfinex](https://www.eosfinex.com/) - Decentralised, Under Development.
 - [EOSSWAP](https://eosswap.io) - Decentralised, atomic EOS tokens swaps.
 
