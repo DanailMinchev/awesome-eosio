@@ -68,6 +68,7 @@ Official resources.
 
 EdenOS resources.
 
+- [eoscommunity/Eden](https://github.com/eoscommunity/Eden)
 - [EOS Butler](https://www.youtube.com/channel/UCO4j-IQAiCFwUgj_QeXFKAA)
 
 
