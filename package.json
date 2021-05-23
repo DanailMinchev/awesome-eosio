@@ -1,0 +1,40 @@
+{
+  "name": "awesome-eosio",
+  "private": true,
+  "description": "A curated list of awesome EOSIO resources for users and developers.",
+  "version": "0.0.0-development",
+  "license": "CC0",
+  "author": "Danail Minchev <danail.dev@gmail.com>",
+  "scripts": {
+    "prepare": "npx husky install",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "lint": "npx awesome-lint",
+    "update": "npx -p npm-check-updates ncu -u && npm install --force"
+  },
+  "devDependencies": {
+    "awesome-lint": "0.17.1",
+    "husky": "6.0.0",
+    "lint-staged": "11.0.0",
+    "prettier": "2.3.0"
+  },
+  "lint-staged": {
+    "*.{js,jsx,json,md}": "prettier --write"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "eos",
+    "eosio",
+    "eos-blockchain",
+    "eos-resources",
+    "eosio-development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanailMinchev/awesome-eosio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanailMinchev/awesome-eosio/issues"
+  },
+  "homepage": "https://github.com/DanailMinchev/awesome-eosio#readme"
+}
