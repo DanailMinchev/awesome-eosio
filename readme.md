@@ -11,7 +11,6 @@
 
 <p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
 
-
 ## Contents
 
 - [Official](#official)
@@ -45,12 +44,9 @@
 - [Exchanges](#exchanges)
 - [Forks](#forks)
 
-
-
 ## Official
 
 Official resources.
-
 
 - [EOS Community](https://eoscommunity.org/)
 - [Website](https://eos.io/)
@@ -63,7 +59,6 @@ Official resources.
 - [YouTube](https://www.youtube.com/c/eosio)
 - [Block.one](https://block.one/)
 
-
 ## EdenOS
 
 EdenOS resources.
@@ -72,11 +67,9 @@ EdenOS resources.
 - [eoscommunity/Eden](https://github.com/eoscommunity/Eden)
 - [EOS Butler](https://www.youtube.com/channel/UCO4j-IQAiCFwUgj_QeXFKAA)
 
-
 ## Learning resources
 
 EOSIO learning resources.
-
 
 ### Websites
 
@@ -99,11 +92,9 @@ EOSIO learning resources.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) - Course.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/training/catalog/software-engineering/building-dapps-with-eos-workshop) - Workshop.
 
-
 ## Tools
 
 Various software and tools.
-
 
 ### Wallets and Toolkits
 
@@ -187,13 +178,11 @@ Block Producers related software and resources.
 - [EOS Radar](https://www.eos-radar.com/) - EOSIO Block Producer Map.
 - [EOS Block Producer Research Portal](https://www.alohaeos.com/vote)
 
-
 ## Developers
 
 All about development on EOSIO platform.
 
 ### Libraries and Frameworks
-
 
 #### API libraries
 
@@ -236,7 +225,6 @@ All about development on EOSIO platform.
 - [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 - [EOSLIME](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
 
-
 ### Developer Tools
 
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
@@ -254,14 +242,12 @@ All about development on EOSIO platform.
 - [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) - EOSIO keosd with Touch ID Secure Enclave.
 - [mixbytes/node-eosjs-signature-provider](https://github.com/mixbytes/node-eosjs-signature-provider) - Fast eosjs signature provider implementation for nodejs based on C++ N-API addon.
 
-
 ### Testnets
 
 - [The EOSIO Testnet](https://testnet.eos.io/)
   - [EOSIO Testnet Launch](https://eos.io/news/eosio-testnet-launch/) - Article.
 - [EOS Jungle Testnet](http://jungle.cryptolions.io/)
   - [CryptoLions/EOS-Jungle-Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Official GitHub.
-
 
 ### Code examples
 
@@ -271,7 +257,6 @@ All about development on EOSIO platform.
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
 - [ping-eos](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
 - [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
-
 
 ### Block Producer tools
 
@@ -288,9 +273,7 @@ All about development on EOSIO platform.
 - [OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
 - [breakstring/savemyeosram](https://github.com/breakstring/savemyeosram) - Saving RAM on EOS.
 
-
 ## Community
-
 
 ### Blogs
 
@@ -306,7 +289,6 @@ All about development on EOSIO platform.
 - [greymass](https://busy.org/@greymass) - Cypherglass blog, user related content and articles. News.
 - [EOSFinex product](https://medium.com/eosfinexproject) - EOSFinex exchange blog. Developer and news content related to EOSFinex product.
 
-
 ### YouTube Channels
 
 - [EOS Go](https://www.youtube.com/c/EOSGo) - ESO Go community meetings, podcasts, live streams. News and discussions.
@@ -320,7 +302,6 @@ All about development on EOSIO platform.
 - [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress) - Developer related content.
 - [Filip Martinsson](https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA) - Developer related content.
 
-
 ### Forums
 
 - [EOS Go - Blockchain Community](https://forums.eosgo.io/)
@@ -328,11 +309,9 @@ All about development on EOSIO platform.
 - [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
 - [EOS.IO - Stack Exchange](https://eosio.stackexchange.com/)
 
-
 ## DApps
 
 DApp resources.
-
 
 ### DApp directories
 
@@ -369,11 +348,9 @@ DApp resources.
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
 
-
 ## Exchanges
 
 EOSIO focused exchanges.
-
 
 - [BancorX](https://eos.bancor.network/) - Decentralised, Airdrops friendly. First Cross-Blockchain Decentralized Liquidity Network. Convert EOS tokens directly from your wallet.
 - [Newdex](https://newdex.io/) - Decentralised, Airdrops friendly.
@@ -381,11 +358,9 @@ EOSIO focused exchanges.
 - [EOSfinex](https://www.eosfinex.com/) - Decentralised, Under Development.
 - [EOSSWAP](https://eosswap.io) - Decentralised, atomic EOS tokens swaps.
 
-
 ## Forks
 
 EOSIO forks.
-
 
 - [Worbli](https://www.worbli.io/)
   - [Worbli.Bloks.io](https://worbli.bloks.io/) - Worbli Block Explorer.
@@ -399,11 +374,9 @@ EOSIO forks.
 - [EvolutionOS](https://www.evolutionos.com/)
 - [eosBLACK](https://eosblack.io/)
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
