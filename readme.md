@@ -155,6 +155,7 @@ Various software and tools.
 ### Account services
 
 - [Get alerts for transactions on an account - EOS Authority](https://eosauthority.com/alerts)
+- [EOS PowerUp](https://eospowerup.io/)
 - [ZEOS](https://www.zeos.co/) - Zeos is EOSIO account name purchase service.
   - [How To Buy/Create an Eos Account (wallet) With zEOS](https://www.youtube.com/watch?v=q8kcs1MuPNE) - YouTube.
 
