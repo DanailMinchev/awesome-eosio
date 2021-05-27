@@ -108,7 +108,6 @@ Various software and tools.
 - [OracleChain/PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android)
 - [OracleChain/PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS)
 - [Android client for EOS.IO](https://github.com/playerone-id/EosCommander)
-- [Anchor Wallet](https://greymass.com/en/anchor/)
 
 ### Account services
 
@@ -156,8 +155,8 @@ All about development on EOSIO platform.
 - [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) - Official GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
-- [@greymass/eosio](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library
-- [greymass/swift-eosio](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support
+- [greymass/eosio](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
+- [greymass/swift-eosio](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
 
 #### Authentication and Signing libraries
 
@@ -170,9 +169,9 @@ All about development on EOSIO platform.
 - [EOSIO/eosio-reference-ios-authenticator-app](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
 - [EOSIO/ual-scatter](https://github.com/EOSIO/ual-scatter) - Authenticator meant to be used with Scatter and Universal Authenticator Library.
 - [greymass/ual-anchor](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
-- [greymass/anchor-link](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7)
-- [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR)
-- [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol
+- [greymass/anchor-link](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
+- [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
+- [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
 
 
 #### Frameworks
@@ -195,8 +194,8 @@ All about development on EOSIO platform.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 - [Octopus](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
-- [@greymass/eosio-resources](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
-- [@greymass/abi2core](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to @greymass/eosio type definitions.
+- [greymass/eosio-resources](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
+- [greymass/abi2core](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
 
 ### Testnets
 
@@ -217,9 +216,9 @@ All about development on EOSIO platform.
 - [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 - [eosnewyork/erp](https://github.com/eosnewyork/erp) - EOS Resource Planner.
 - [greymass/anchor-link-demo](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
-- [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link
-- [greymass/ual-anchor-demo](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor
-- [greymass/eosio-signing-request-demo](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request
+- [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
+- [greymass/ual-anchor-demo](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
+- [greymass/eosio-signing-request-demo](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
 
 ### Block Producer tools
 
