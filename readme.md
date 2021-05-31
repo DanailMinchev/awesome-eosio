@@ -242,6 +242,7 @@ All about development on EOSIO platform.
 
 ### Other in Developers
 
+- [Community Developer Tools](https://developers.eos.io/welcome/latest/community-developer-tools/index) - Official EOSIO "Community Developer Tools" page.
 - [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
 - [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
 - [OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
