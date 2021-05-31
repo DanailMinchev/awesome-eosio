@@ -17,6 +17,7 @@
 - [EdenOS](#edenos)
 - [Learn](#learn)
   - [Websites](#websites)
+  - [Books](#books)
   - [Courses, workshops, webinars, videos and others](#courses-workshops-webinars-videos-and-others)
 - [Tools](#tools)
   - [Wallets and Toolkits](#wallets-and-toolkits)
@@ -71,10 +72,13 @@ EOSIO learning resources.
 
 - [Elemental Battles](https://battles.eos.io/) - Build a blockchain game. Learn EOSIO.
   - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
-- [EOS GO](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
+
+### Books
+
+- [Learn EOS Development](https://learneos.dev/) - The up-to-date, in-depth, complete guide to dapps on the EOS blockchain.
 
 ### Courses, workshops, webinars, videos and others
 
@@ -128,6 +132,7 @@ Various software and tools.
 - [EOSX](https://www.eosx.io/) - Block explorer. Various side chains are supported.
 <!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
+- [EOS GO](https://www.eosgo.io/)
 
 ## Block Producers
 
