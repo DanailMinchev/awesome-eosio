@@ -258,8 +258,9 @@ All about development on EOSIO platform.
 ### Blogs
 
 - [Daniel Larimer](https://moreequalanimals.com/) - Blog of Daniel Larimer, founder of EOSIO.
-- [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 - [cc32d9](https://medium.com/@cc32d9) - cc32d9 blog, EOSIO developer related publications.
+- [cmichel](https://cmichel.io/categories/EOS) - Christoph Michel blog, EOSIO developer related publications.
+- [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 - [Dallas Rushing](https://steemit.com/@dallasrushing) - Blog of Dallas Rushing, EOSIO user related content.
 - [Iang](https://steemit.com/@iang) - Blog of Iang, EOSIO user and developer related content.
 - [EOS Canada](https://steemit.com/@eos-canada) - EOS Canada blog, user related content and videos.
