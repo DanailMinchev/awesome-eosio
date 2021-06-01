@@ -18,6 +18,7 @@
 - [Learn](#learn)
   - [Websites](#websites)
   - [Books](#books)
+  - [Interactive learning, lobs](#interactive-learning-lobs)
   - [Courses, workshops, webinars, videos and others](#courses-workshops-webinars-videos-and-others)
 - [Tools](#tools)
   - [Wallets and Toolkits](#wallets-and-toolkits)
@@ -51,7 +52,6 @@ Official resources.
 - [Technical White Paper](https://github.com/EOSIO/Documentation)
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
-- [Developer Portal](https://developers.eos.io/)
 - [StackExchange for Q&A](https://eosio.stackexchange.com/)
 - [YouTube](https://www.youtube.com/c/eosio)
 - [Block.one](https://block.one/)
@@ -70,8 +70,7 @@ EOSIO learning resources.
 
 ### Websites
 
-- [Elemental Battles](https://battles.eos.io/) - Build a blockchain game. Learn EOSIO.
-  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
+- [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
@@ -79,6 +78,12 @@ EOSIO learning resources.
 ### Books
 
 - [Learn EOS Development](https://learneos.dev/) - The up-to-date, in-depth, complete guide to dapps on the EOS blockchain.
+
+### Interactive learning, lobs
+
+- [Elemental Battles](https://battles.eos.io/) - Build a blockchain game. Learn EOSIO.
+  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
+- [Block.one: Getting Started with the EOSIO Blockchain and Smart Contracts](https://google.qwiklabs.com/catalog_lab/3743) - Google Cloud training lab.
 
 ### Courses, workshops, webinars, videos and others
 
