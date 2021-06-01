@@ -18,7 +18,7 @@
 - [Learn](#learn)
   - [Websites](#websites)
   - [Books](#books)
-  - [Interactive learning, lobs](#interactive-learning-lobs)
+  - [Interactive learning, labs](#interactive-learning-labs)
   - [Courses, workshops, webinars, videos and others](#courses-workshops-webinars-videos-and-others)
 - [Tools](#tools)
   - [Wallets and Toolkits](#wallets-and-toolkits)
@@ -79,7 +79,7 @@ EOSIO learning resources.
 
 - [Learn EOS Development](https://learneos.dev/) - The up-to-date, in-depth, complete guide to dapps on the EOS blockchain.
 
-### Interactive learning, lobs
+### Interactive learning, labs
 
 - [Elemental Battles](https://battles.eos.io/) - Build a blockchain game. Learn EOSIO.
   - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
