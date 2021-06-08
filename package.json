@@ -15,7 +15,7 @@
     "awesome-lint": "0.17.1",
     "husky": "6.0.0",
     "lint-staged": "11.0.0",
-    "prettier": "2.3.0"
+    "prettier": "2.3.1"
   },
   "lint-staged": {
     "*.{js,jsx,json,md}": "prettier --write"
