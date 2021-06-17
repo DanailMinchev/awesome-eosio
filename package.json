@@ -12,7 +12,7 @@
     "update": "npx -p npm-check-updates ncu -u && npm install --force"
   },
   "devDependencies": {
-    "awesome-lint": "0.17.1",
+    "awesome-lint": "0.18.0",
     "husky": "6.0.0",
     "lint-staged": "11.0.0",
     "prettier": "2.3.1"
