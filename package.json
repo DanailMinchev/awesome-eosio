@@ -14,7 +14,7 @@
   "devDependencies": {
     "awesome-lint": "0.18.0",
     "husky": "7.0.4",
-    "lint-staged": "11.2.3",
+    "lint-staged": "11.2.4",
     "prettier": "2.4.1"
   },
   "lint-staged": {
