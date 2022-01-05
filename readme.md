@@ -15,6 +15,7 @@
 
 - [Official](#official)
 - [EdenOS](#edenos)
+- [Mandel](#mandel)
 - [Learn](#learn)
   - [Websites](#websites)
   - [Books](#books)
@@ -64,6 +65,12 @@ EdenOS resources.
 - [Website](http://edeneos.org/) - Official Website.
 - [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
 - [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
+
+## Mandel
+
+Mandel resources.
+
+- [eosnetworkfoundation/mandel](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
 
 ## Learn
 
