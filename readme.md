@@ -154,7 +154,9 @@ Various software and tools.
 
 ### General
 
-- [All Things EOS](http://allthingseos.com/)
+- [All Things EOS](http://allthingseos.com)
+- [Tools from EOS Authority](https://eosauthority.com/tools)
+- [EOSIO Tools and Info](https://www.alohaeos.com/tools)
 
 ## Block Producers
 
@@ -315,6 +317,12 @@ All about development on EOSIO platform.
 - [WAX developers Telegram](https://t.me/waxdevelopers)
 - [Teloso developers Telegram](https://t.me/dappstelos)
 
+## EOSIO Ecosystem
+
+- [EOS infographic](https://twitter.com/EOS_Bees/status/1518996327664918531/photo/1) - Infographic for EOS ecosystem.
+- [Public EOSIO chains and their telegram chats](https://github.com/eosio-ecosystem/chains)
+- [EOSIO Ecosystem](https://github.com/eosio-ecosystem/eosio-ecosystem-resources) - EOSIO multi-chain ecosystem information
+
 ## DApps
 
 DApp resources.
@@ -323,6 +331,7 @@ DApp resources.
 
 - [EOSindex](https://eosindex.io/)
 - [DappRadar](https://dappradar.com/eos-dapps)
+- [State of the Dapps](https://www.stateofthedapps.com/platforms/eos)
 
 ### Leasing platforms
 
@@ -342,4 +351,3 @@ DApp resources.
 - [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) - The Everipedia Network protocol.
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
-- [EOS infographic](https://twitter.com/EOS_Bees/status/1518996327664918531/photo/1) - Infographic for EOS ecosystem.
