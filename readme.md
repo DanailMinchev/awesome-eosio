@@ -101,7 +101,11 @@ EOSIO learning resources.
 - [EOSIO Resource Library](https://eos.io/resources/) - Official EOSIO Resources. Videos, case studies, and other resources to help you learn and grow with EOSIO.
 - [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
 - [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
+- [Learn EOS Blockchain Smart Contracts & DApps with C++, EOSJS](https://www.udemy.com/course/learn-eos-blockchain-smart-contracts-dapps-with-c-eosjs/) - Udemy course.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop) - Workshop.
+- [EOSIO Blockchain Developer Workshop](https://medium.com/@theblockstalk/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - Free course on Youtube
+- [EOS Programming 101](https://academy.moralis.io/courses/eos-programming-101) - Ivan on Tech video course.
+- [Introduction to EOSIO for Developers](https://academy.b9lab.com/courses/course-v1:B9lab+EOSIO-FREE+2018-09/about) - Free B1 Labs video course.
 
 ## Tools
 
@@ -226,6 +230,7 @@ All about development on EOSIO platform.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 - [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 - [EOSLIME](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
+- [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB
 
 ### Developer Tools
 
@@ -254,6 +259,7 @@ All about development on EOSIO platform.
 - [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
 - [greymass/ual-anchor-demo](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
 - [greymass/eosio-signing-request-demo](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
+- [theblockstalk/eosio-contracts](https://github.com/theblockstalk/eosio-contracts) - Example smart contracts, dapps and system contract templates.
 
 ### Block Producer tools
 
@@ -285,6 +291,7 @@ All about development on EOSIO platform.
 - [EOS Canada](https://steemit.com/@eos-canada) - EOS Canada blog, user related content and videos.
 - [Cypherglass](https://steemit.com/@cypherglass) - Cypherglass blog, user related content and videos. News.
 - [EOS New York](https://medium.com/@eosnewyork) - EOS New York blog, user and developer related content.
+- [Jack Tanner](https://theblockstalk.medium.com) - Jack Tanner blog, EOSIO developer, education and related content.
 
 ### YouTube Channels
 
@@ -304,6 +311,9 @@ All about development on EOSIO platform.
 - [EOSCommunity.org Forums](https://forums.eoscommunity.org/)
 - [EOS - Reddit](https://www.reddit.com/r/eos/)
 - [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
+- [EOSIO Developers Telegram](https://t.me/joinchat/0uhWYfXVpPlkNTA1)
+- [WAX developers Telegram](https://t.me/waxdevelopers)
+- [Teloso developers Telegram](https://t.me/dappstelos)
 
 ## DApps
 
@@ -332,3 +342,4 @@ DApp resources.
 - [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) - The Everipedia Network protocol.
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
+- [EOS infographic](https://twitter.com/EOS_Bees/status/1518996327664918531/photo/1) - Infographic for EOS ecosystem.
