@@ -39,6 +39,7 @@
   - [Blogs](#blogs)
   - [YouTube Channels](#youtube-channels)
   - [Forums](#forums)
+- [EOSIO Ecosystem](#eosio-ecosystem)
 - [DApps](#dapps)
   - [DApp directories](#dapp-directories)
   - [Leasing platforms](#leasing-platforms)
@@ -104,7 +105,7 @@ EOSIO learning resources.
 - [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Learn EOS Blockchain Smart Contracts & DApps with C++, EOSJS](https://www.udemy.com/course/learn-eos-blockchain-smart-contracts-dapps-with-c-eosjs/) - Udemy course.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop) - Workshop.
-- [EOSIO Blockchain Developer Workshop](https://medium.com/@theblockstalk/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - Free course on Youtube
+- [EOSIO Blockchain Developer Workshop](https://medium.com/@theblockstalk/the-eosio-blockchain-developer-workshop-now-available-on-youtube-ddeba54f0d94) - Free course on YouTube.
 - [EOS Programming 101](https://academy.moralis.io/courses/eos-programming-101) - Ivan on Tech video course.
 - [Introduction to EOSIO for Developers](https://academy.b9lab.com/courses/course-v1:B9lab+EOSIO-FREE+2018-09/about) - Free B1 Labs video course.
 
@@ -230,29 +231,29 @@ All about development on EOSIO platform.
 
 [Intro blog by @cc32d9](https://cc32d9.medium.com/history-and-notifications-in-eosio-blockchain-8255194af93)
 
-- [EOSIO/history-tools](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin
-- [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains
-- [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances
+- [EOSIO/history-tools](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin.
+- [Hyperion History API](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains.
+- [EOSIO Light API](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances.
 
 #### Testing
-- [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use)
+- [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use).
 - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - Python-based EOSIO smart-contract development & unit testing framework.
 - [infeos](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 - [EOSLIME](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
-- [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - Javascript framework for testing EOSIO smart contracts.
-- [haderech/vert](https://github.com/haderech/vert) - Javascript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
+- [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - JavaScript framework for testing EOSIO smart contracts.
+- [haderech/vert](https://github.com/haderech/vert) - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
 
 #### Services
 - [Demux](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
 - [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
-- [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB
+- [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
 - [WAX Random Number Generator](https://developer.wax.io/es/tutorials/wax-rng)
-- [DelphiOracle](https://github.com/eostitan/delphioracle) - a multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
+- [DelphiOracle](https://github.com/eostitan/delphioracle) - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 
 ### Developer Tools
 
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
-- [Blanc](https://github.com/haderech/blanc) - a toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
+- [Blanc](https://github.com/haderech/blanc) - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
 - [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
@@ -262,8 +263,8 @@ All about development on EOSIO platform.
 - [greymass/eosio-resources](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
 - [greymass/abi2core](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
 - [maxifom/eos-abigen](https://github.com/maxifom/eos-abigen) - Typescript and Golang code generator for generating type-safe client and tables for EOS-compatible contracts.
-- [manh-vv/eosjs-name](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back
-- [blockchain-etl/eos-etl](https://github.com/blockchain-etl/eos-etl) - Connector for Google's BigQuery Public Datasets
+- [manh-vv/eosjs-name](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back.
+- [blockchain-etl/eos-etl](https://github.com/blockchain-etl/eos-etl) - Connector for Google's BigQuery Public Datasets.
 
 ### Code examples
 
@@ -343,7 +344,7 @@ All about development on EOSIO platform.
 
 - [EOS infographic](https://twitter.com/EOS_Bees/status/1518996327664918531/photo/1) - Infographic for EOS ecosystem.
 - [Public EOSIO chains and their telegram chats](https://github.com/eosio-ecosystem/chains)
-- [EOSIO Ecosystem](https://github.com/eosio-ecosystem/eosio-ecosystem-resources) - EOSIO multi-chain ecosystem information
+- [EOSIO Ecosystem](https://github.com/eosio-ecosystem/eosio-ecosystem-resources) - EOSIO multi-chain ecosystem information.
 
 ## DApps
 
