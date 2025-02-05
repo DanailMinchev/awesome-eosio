@@ -50,15 +50,11 @@
 
 Official resources.
 
-- [EOS Community](https://eoscommunity.org/)
-- [EOS Network Foundation](https://www.eosn.foundation/)
-- [GitHub](https://github.com/EOSIO)
-- [Technical White Paper](https://github.com/EOSIO/Documentation)
-- [Bug Bounty Program](https://hackerone.com/eosio)
-- [Blog](https://medium.com/eosio)
+- [EOS Network Foundation](https://eosnetwork.com/)
+- [GitHub](https://github.com/AntelopeIO/spring)
+- [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 - [StackExchange for Q&A](https://eosio.stackexchange.com/)
-- [YouTube](https://www.youtube.com/c/eosio)
-- [Block.one](https://block.one/)
+- [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
 
 ## EdenOS
 
