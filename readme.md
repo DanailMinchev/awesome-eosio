@@ -14,8 +14,6 @@
 ## Contents
 
 - [Official](#official)
-- [EdenOS](#edenos)
-- [Mandel](#mandel)
 - [Learn](#learn)
   - [Websites](#websites)
   - [Books](#books)
@@ -55,21 +53,6 @@ Official resources.
 - [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 - [StackExchange for Q&A](https://eosio.stackexchange.com/)
 - [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
-
-## EdenOS
-
-EdenOS resources.
-
-- [Website](http://edeneos.org/) - Official Website.
-- [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
-- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
-
-## Mandel
-
-Mandel resources.
-
-- [eosnetworkfoundation/mandel](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
-- [gofractally](https://github.com/gofractally) - Eden team repository with new Mandel resources and tools.
 
 ## Learn
 
