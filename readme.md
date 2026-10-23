@@ -355,6 +355,8 @@ DApp resources.
 
 ### Other in DApps
 
+- [Alcor Exchange](https://alcor.exchange/) - DEX on WAX, EOS, Telos and XPR with concentrated-liquidity pools, an order book and a trust-minimized light-client bridge to Ethereum, BSC, Polygon, Sui and NEAR.
+  - [alcorexchange/alcor-ui](https://github.com/alcorexchange/alcor-ui) - Official GitHub.
 - [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) - The Everipedia Network protocol.
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
